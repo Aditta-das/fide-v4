@@ -1,0 +1,5550 @@
+{
+  "ok": true,
+  "err": null,
+  "data": [
+    {
+      "_id": "66af5ca3d2bdec9c1e960090",
+      "fideId": 1503014,
+      "name": "Carlsen, Magnus",
+      "federation": "Norway",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.15000000000000002,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/carlsen__magnus.jpeg",
+      "rating": {
+        "blitz": 2860,
+        "rapid": 2803,
+        "std": 2823
+      }
+    },
+    {
+      "_id": "66cfdb506474c879090434d8",
+      "fideId": 2020009,
+      "name": "Caruana, Fabiano",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.11944444444444446,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/caruana__fabiano.png",
+      "rating": {
+        "blitz": 2773,
+        "rapid": 2716,
+        "std": 2792
+      }
+    },
+    {
+      "_id": "66dd99426474c87909047034",
+      "fideId": 2016192,
+      "name": "Nakamura, Hikaru",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1111111111111111,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/nakamura__hikaru.jpeg",
+      "rating": {
+        "blitz": 2838,
+        "rapid": 2742,
+        "std": 2792
+      }
+    },
+    {
+      "_id": "66ff8f3af7535048e50ab141",
+      "fideId": 14205483,
+      "name": "Sindarov, Javokhir",
+      "federation": "Uzbekistan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3097222222222223,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/sindarov__javokhir.jpeg",
+      "rating": {
+        "blitz": 2680,
+        "rapid": 2718,
+        "std": 2777
+      }
+    },
+    {
+      "_id": "67383b86f7535048e50c6f85",
+      "fideId": 12940690,
+      "name": "Keymer, Vincent",
+      "federation": "Germany",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.17041666666666655,
+        "y": 0.12083333333333324,
+        "width": 0.47687500000000005,
+        "height": 0.6812500000000001,
+        "originalWidth": 1200,
+        "originalHeight": 840
+      },
+      "thumbUrl": "playerImages/keymer__vincent.jpeg",
+      "rating": {
+        "blitz": 2621,
+        "rapid": 2627,
+        "std": 2767
+      }
+    },
+    {
+      "_id": "66ad351cd2bdec9c1e95fad8",
+      "fideId": 14204118,
+      "name": "Abdusattorov, Nodirbek",
+      "federation": "Uzbekistan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbUrl": "https://cbin.b-cdn.net/img/NO/Nodirbek_0BB06_750x1200.jpeg",
+      "rating": {
+        "blitz": 2820,
+        "rapid": 2686,
+        "std": 2766
+      },
+      "thumbReframe": null
+    },
+    {
+      "_id": "6825a62457efd8775f1216db",
+      "fideId": 5202213,
+      "name": "So, Wesley",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1993,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.39027777777777783,
+        "y": 0.004166666666666652,
+        "width": 0.5444444444444444,
+        "height": 0.8166666666666667,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/so__wesley.jpeg",
+      "rating": {
+        "blitz": 2772,
+        "rapid": 2719,
+        "std": 2765
+      }
+    },
+    {
+      "_id": "66cfdb686474c879090434da",
+      "fideId": 24116068,
+      "name": "Giri, Anish",
+      "federation": "Netherlands",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1994,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.18055555555555558,
+        "y": 0,
+        "width": 0.6152777777777777,
+        "height": 0.9229166666666666,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/giri__anish.jpeg",
+      "rating": {
+        "blitz": 2642,
+        "rapid": 2664,
+        "std": 2764
+      }
+    },
+    {
+      "_id": "66e27253a5af8b8cba6f6395",
+      "fideId": 35009192,
+      "name": "Erigaisi Arjun",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.21424652777777775,
+        "y": 0,
+        "width": 0.6658333333333334,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 799
+      },
+      "thumbUrl": "playerImages/erigaisi_arjun.jpeg",
+      "rating": {
+        "blitz": 2766,
+        "rapid": 2745,
+        "std": 2757
+      }
+    },
+    {
+      "_id": "67969dc4343dfb7126fb3a55",
+      "fideId": 8603405,
+      "name": "Wei, Yi",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16805555555555557,
+        "y": 0.06666666666666665,
+        "width": 0.5597222222222222,
+        "height": 0.8395833333333333,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/wei__yi.jpeg",
+      "rating": {
+        "blitz": 2709,
+        "rapid": 2722,
+        "std": 2753
+      }
+    },
+    {
+      "_id": "67079faef7535048e50ac664",
+      "fideId": 25059530,
+      "name": "Praggnanandhaa R",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.26979166666666665,
+        "y": 0.012500000000000067,
+        "width": 0.6814166666666666,
+        "height": 0.9249999999999999,
+        "originalWidth": 1200,
+        "originalHeight": 884
+      },
+      "thumbUrl": "playerImages/praggnanandhaa_r.jpeg",
+      "rating": {
+        "blitz": 2707,
+        "rapid": 2690,
+        "std": 2750
+      }
+    },
+    {
+      "_id": "66de44596474c87909047197",
+      "fideId": 12573981,
+      "name": "Firouzja, Alireza",
+      "federation": "France",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.14511875000000002,
+        "y": 0.02083333333333348,
+        "width": 0.56518125,
+        "height": 0.80625,
+        "originalWidth": 1000,
+        "originalHeight": 701
+      },
+      "thumbUrl": "playerImages/firouzja__alireza.jpeg",
+      "rating": {
+        "blitz": 2796,
+        "rapid": 2748,
+        "std": 2749
+      }
+    },
+    {
+      "_id": "670056f3f7535048e50ab42c",
+      "fideId": 1170546,
+      "name": "Duda, Jan-Krzysztof",
+      "federation": "Poland",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1998,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1791666666666667,
+        "y": 0,
+        "width": 0.6416666666666666,
+        "height": 0.9624999999999999,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/JA/jan-duda_01KNB2DVAEHRMWEPS0A3TJM4HJ_1200x800.jpeg",
+      "rating": {
+        "blitz": 2704,
+        "rapid": 2685,
+        "std": 2743
+      }
+    },
+    {
+      "_id": "66ff75d7f7535048e50ab0a4",
+      "fideId": 5000017,
+      "name": "Anand, Viswanathan",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1969,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.163567334017796,
+        "y": 0.04791666666666666,
+        "width": 0.6208204996577686,
+        "height": 0.6958333333333333,
+        "originalWidth": 974,
+        "originalHeight": 869
+      },
+      "thumbUrl": "playerImages/anand__viswanathan.jpeg",
+      "rating": {
+        "blitz": 2706,
+        "rapid": 2721,
+        "std": 2739
+      }
+    },
+    {
+      "_id": "682d426919c6f901b5c959d6",
+      "fideId": 8603677,
+      "name": "Ding, Liren",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.4052652994791667,
+        "y": 0.02291666666666653,
+        "width": 0.5780598958333334,
+        "height": 0.8666666666666668,
+        "originalWidth": 1024,
+        "originalHeight": 683
+      },
+      "thumbUrl": "playerImages/ding__liren.jpeg",
+      "rating": {
+        "blitz": 2736,
+        "rapid": 2704,
+        "std": 2738
+      }
+    },
+    {
+      "_id": "66cfded56474c8790904351c",
+      "fideId": 4168119,
+      "name": "Nepomniachtchi, Ian",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.04143749999999996,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/nepomniachtchi__ian.jpeg",
+      "rating": {
+        "blitz": 2765,
+        "rapid": 2729,
+        "std": 2735
+      }
+    },
+    {
+      "_id": "69435ed8fe60a636b8e4dc2a",
+      "fideId": 3503240,
+      "name": "Dominguez Perez, Leinier",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1983,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.13315,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/dominguez_perez__leinier.jpeg",
+      "rating": {
+        "blitz": 2591,
+        "rapid": 2666,
+        "std": 2732
+      }
+    },
+    {
+      "_id": "6a52e34634c046e72e349ede",
+      "fideId": 12401137,
+      "name": "Le, Quang Liem",
+      "federation": "Vietnam",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1991,
+      "rating": {
+        "std": 2731,
+        "rapid": 2633,
+        "blitz": 2690
+      },
+      "thumbUrl": "playerImages/le__quang_liem.png",
+      "thumbReframe": {
+        "x": 0.28206944444444454,
+        "y": 0.21458333333333324,
+        "width": 0.5187361111111111,
+        "height": 0.7041666666666667,
+        "originalWidth": 1200,
+        "originalHeight": 884
+      },
+      "__v": 0
+    },
+    {
+      "_id": "66afee1cd2bdec9c1e96015e",
+      "fideId": 2093596,
+      "name": "Niemann, Hans Moke",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.35178125000000005,
+        "y": 0.08541666666666659,
+        "width": 0.5709166666666665,
+        "height": 0.8666666666666665,
+        "originalWidth": 800,
+        "originalHeight": 527
+      },
+      "thumbUrl": "playerImages/niemann__hans_moke.png",
+      "rating": {
+        "blitz": 2711,
+        "rapid": 2675,
+        "std": 2730
+      }
+    },
+    {
+      "_id": "6860a22c1a5ed8e5113708c1",
+      "fideId": 738590,
+      "name": "Rapport, Richard",
+      "federation": "Hungary",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1996,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1484375,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/rapport__richard.jpeg",
+      "rating": {
+        "blitz": 2616,
+        "rapid": 2680,
+        "std": 2729
+      }
+    },
+    {
+      "_id": "679162abd4b6344015da3a26",
+      "fideId": 1039784,
+      "name": "Van Foreest, Jorden",
+      "federation": "Netherlands",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2015625000000001,
+        "y": 0.012500000000000067,
+        "width": 0.653125,
+        "height": 0.8708333333333332,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/van_foreest__jorden.jpeg",
+      "rating": {
+        "blitz": 2687,
+        "rapid": 2597,
+        "std": 2728
+      }
+    },
+    {
+      "_id": "66fb935ef7535048e50aa25b",
+      "fideId": 13300474,
+      "name": "Aronian, Levon",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1982,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/aronian__levon.jpeg",
+      "rating": {
+        "blitz": 2700,
+        "rapid": 2735,
+        "std": 2724
+      }
+    },
+    {
+      "_id": "694355acfe60a636b8e4dbc4",
+      "fideId": 13401319,
+      "name": "Mamedyarov, Shakhriyar",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1985,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2245901639344261,
+        "y": 0.054166666666666696,
+        "width": 0.6163934426229509,
+        "height": 0.7833333333333333,
+        "originalWidth": 976,
+        "originalHeight": 768
+      },
+      "thumbUrl": "playerImages/mamedyarov__shakhriyar.jpeg",
+      "rating": {
+        "blitz": 2627,
+        "rapid": 2694,
+        "std": 2723
+      }
+    },
+    {
+      "_id": "67587dfecc030a47b4dd83ed",
+      "fideId": 12521213,
+      "name": "Tabatabaei, M. Amin",
+      "federation": "Iran",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2109374999999999,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/AM/Amin%20tabatabaei_FEJB7_1200x900.jpeg",
+      "rating": {
+        "blitz": 2608,
+        "rapid": 2585,
+        "std": 2722
+      }
+    },
+    {
+      "_id": "66afee38d2bdec9c1e960160",
+      "fideId": 25092340,
+      "name": "Nihal Sarin",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.486078431372549,
+        "y": 0.139007049100632,
+        "width": 0.38746880570409986,
+        "height": 0.6604581915410793,
+        "originalWidth": 1200,
+        "originalHeight": 704
+      },
+      "thumbUrl": "playerImages/nihal_sarin.jpeg",
+      "rating": {
+        "blitz": 2721,
+        "rapid": 2698,
+        "std": 2717
+      }
+    },
+    {
+      "_id": "678cd033d4b6344015d78972",
+      "fideId": 46616543,
+      "name": "Gukesh D",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.11575868055555544,
+        "y": 0,
+        "width": 0.6228315972222223,
+        "height": 0.9354166666666667,
+        "originalWidth": 1200,
+        "originalHeight": 799
+      },
+      "thumbUrl": "playerImages/gukesh_d.jpeg",
+      "rating": {
+        "blitz": 2655,
+        "rapid": 2684,
+        "std": 2717
+      }
+    },
+    {
+      "_id": "67693963137720fad4c6bc28",
+      "fideId": 623539,
+      "name": "Vachier-Lagrave, Maxime",
+      "federation": "France",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3555695187165776,
+        "y": 0,
+        "width": 0.591,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 591
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/VA/Vachier-Lagrave_X40MM_1000x591.jpeg",
+      "rating": {
+        "blitz": 2730,
+        "rapid": 2701,
+        "std": 2713
+      }
+    },
+    {
+      "_id": "68bbb18fc15ba6ee8eae2d44",
+      "fideId": 44599790,
+      "name": "Erdogmus, Yagiz Kaan",
+      "federation": "Turkiye",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2011,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.06165972222222216,
+        "y": 0.09166666666666667,
+        "width": 0.5382152777777778,
+        "height": 0.8083333333333332,
+        "originalWidth": 1200,
+        "originalHeight": 799
+      },
+      "thumbUrl": "playerImages/erdogmus__yagiz_kaan.jpeg",
+      "rating": {
+        "blitz": 2546,
+        "rapid": 2493,
+        "std": 2713
+      }
+    },
+    {
+      "_id": "6a53ac4734c046e72e350b16",
+      "fideId": 4158814,
+      "name": "Andreikin, Dmitry",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "rating": {
+        "std": 2710,
+        "rapid": 2676,
+        "blitz": 2686
+      },
+      "thumbUrl": "playerImages/andreikin__dmitry.jpeg",
+      "thumbReframe": {
+        "x": 0.2860041666666666,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "__v": 0
+    },
+    {
+      "_id": "66e27745a5af8b8cba6f64b6",
+      "fideId": 8603820,
+      "name": "Yu, Yangyi",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1994,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.28437500000000004,
+        "y": 0.06666666666666671,
+        "width": 0.5765625,
+        "height": 0.7687499999999999,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/yu__yangyi.jpeg",
+      "rating": {
+        "blitz": 2722,
+        "rapid": 2668,
+        "std": 2706
+      }
+    },
+    {
+      "_id": "6a7b0cd6e947be9a87f8bada",
+      "fideId": 12539929,
+      "name": "Maghsoodloo, Parham",
+      "federation": "Iran",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "rating": {
+        "std": 2705,
+        "rapid": 2683,
+        "blitz": 2638
+      },
+      "thumbUrl": "playerImages/maghsoodloo__parham.jpeg",
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.039416666666666655,
+        "width": 1,
+        "height": 0.667,
+        "originalWidth": 667,
+        "originalHeight": 1000
+      },
+      "__v": 0
+    },
+    {
+      "_id": "67b55b267fdc097a86a974b2",
+      "fideId": 2040506,
+      "name": "Sevian, Samuel",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.06640625000000011,
+        "width": 1,
+        "height": 0.8171875,
+        "originalWidth": 523,
+        "originalHeight": 640
+      },
+      "thumbUrl": "playerImages/sevian__samuel.jpeg",
+      "rating": {
+        "blitz": 2677,
+        "rapid": 2666,
+        "std": 2701
+      }
+    },
+    {
+      "_id": "66ad310ad2bdec9c1e95fac1",
+      "fideId": 5029465,
+      "name": "Vidit, Santosh Gujrathi",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1994,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.25694375,
+        "y": 0.012500000000000067,
+        "width": 0.67044375,
+        "height": 0.8562500000000001,
+        "originalWidth": 1000,
+        "originalHeight": 783
+      },
+      "thumbUrl": "playerImages/vidit__santosh_gujrathi.jpeg",
+      "rating": {
+        "blitz": 2677,
+        "rapid": 2624,
+        "std": 2697
+      }
+    },
+    {
+      "_id": "690a5c9e63096e3817832ee0",
+      "fideId": 2056437,
+      "name": "Liang, Awonder",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.035062499999999996,
+        "y": 0.039583333333333304,
+        "width": 0.8476874999999999,
+        "height": 0.85625,
+        "originalWidth": 400,
+        "originalHeight": 396
+      },
+      "thumbUrl": "playerImages/liang__awonder.png",
+      "rating": {
+        "blitz": 2588,
+        "rapid": 2556,
+        "std": 2696
+      }
+    },
+    {
+      "_id": "670d9a93f7535048e50af895",
+      "fideId": 2900084,
+      "name": "Topalov, Veselin",
+      "federation": "Bulgaria",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1975,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.06089166666666662,
+        "y": 0.08541666666666659,
+        "width": 0.4974708333333334,
+        "height": 0.7458333333333335,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/topalov__veselin.jpeg",
+      "rating": {
+        "blitz": 2627,
+        "rapid": 2607,
+        "std": 2695
+      }
+    },
+    {
+      "_id": "69704624ed8f33ab40ed0025",
+      "fideId": 24651516,
+      "name": "Bluebaum, Matthias",
+      "federation": "Germany",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1997,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.23333333333333334,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/bluebaum__matthias.jpeg",
+      "rating": {
+        "blitz": 2634,
+        "rapid": 2587,
+        "std": 2694
+      }
+    },
+    {
+      "_id": "6790449cd4b6344015d8f13c",
+      "fideId": 24130737,
+      "name": "Fedoseev, Vladimir",
+      "federation": "Slovenia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1995,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.08611111111111108,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/fedoseev__vladimir.jpeg",
+      "rating": {
+        "blitz": 2726,
+        "rapid": 2701,
+        "std": 2692
+      }
+    },
+    {
+      "_id": "6a7b9d6ce947be9a87f8f668",
+      "fideId": 4126025,
+      "name": "Grischuk, Alexander",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1983,
+      "rating": {
+        "std": 2628,
+        "rapid": 2671,
+        "blitz": 2693
+      },
+      "thumbUrl": "playerImages/grischuk__alexander.jpeg",
+      "thumbReframe": {
+        "x": 0.1994625,
+        "y": 0,
+        "width": 0.77345,
+        "height": 0.6543570219966159,
+        "originalWidth": 1000,
+        "originalHeight": 1182
+      },
+      "__v": 0
+    },
+    {
+      "_id": "68be9f35c15ba6ee8eaf401d",
+      "fideId": 35042025,
+      "name": "Aditya Mittal",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbUrl": "https://cbin.b-cdn.net/img/XYZ/aditya-mittal_3_01KJ9761QJ70TXS0420WRJBHND_1000x667.jpeg",
+      "rating": {
+        "blitz": 2393,
+        "rapid": 2449,
+        "std": 2602
+      },
+      "thumbReframe": null
+    },
+    {
+      "_id": "690a5ade63096e3817832ed3",
+      "fideId": 13402960,
+      "name": "Abasov, Nijat",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1995,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.7072374999999999,
+        "y": 0.22499999999999987,
+        "width": 0.29276250000000015,
+        "height": 0.43958333333333355,
+        "originalWidth": 1000,
+        "originalHeight": 666
+      },
+      "thumbUrl": "playerImages/abasov__nijat.jpeg",
+      "rating": {
+        "blitz": 2555,
+        "rapid": 2557,
+        "std": 2588
+      }
+    },
+    {
+      "_id": "6a59cab4acbe01b02b884e96",
+      "fideId": 5002150,
+      "name": "Ganguly, Surya Shekhar",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1983,
+      "rating": {
+        "std": 2578,
+        "rapid": 2545,
+        "blitz": 2491
+      },
+      "thumbUrl": "playerImages/ganguly__surya_shekhar.jpeg",
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.7225,
+        "originalWidth": 289,
+        "originalHeight": 400
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a51724234c046e72e33ec87",
+      "fideId": 1506102,
+      "name": "Urkedal, Frode Olav Olsen",
+      "federation": "Norway",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1993,
+      "rating": {
+        "std": 2567,
+        "rapid": 2523,
+        "blitz": 2445
+      },
+      "thumbUrl": "playerImages/urkedal__frode_olav_olsen.jpeg",
+      "thumbReframe": {
+        "x": 0.03583333333333333,
+        "y": 0,
+        "width": 0.9283333333333333,
+        "height": 1,
+        "originalWidth": 600,
+        "originalHeight": 557
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a77900be947be9a87f772d7",
+      "fideId": 5018471,
+      "name": "Adhiban, B.",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "rating": {
+        "std": 2561,
+        "rapid": 2523,
+        "blitz": 2519
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/AD/Adhiban_TYZA2_1200x900.jpeg",
+      "thumbReframe": {
+        "x": 0.25625,
+        "y": 0.03125,
+        "width": 0.628125,
+        "height": 0.8375,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a521a1634c046e72e34474a",
+      "fideId": 14926970,
+      "name": "Pechac, Jergus",
+      "federation": "Slovakia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "rating": {
+        "std": 2539,
+        "rapid": 2563,
+        "blitz": 2553
+      },
+      "thumbUrl": "playerImages/pechac__jergus.jpeg",
+      "thumbReframe": {
+        "x": 0.23888888888888887,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 768,
+        "originalHeight": 512
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a53a9c534c046e72e35080e",
+      "fideId": 8602387,
+      "name": "Gao, Rui",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "rating": {
+        "std": 2534,
+        "rapid": 2462,
+        "blitz": 2471
+      },
+      "thumbUrl": "playerImages/gao__rui.jpeg",
+      "thumbReframe": {
+        "x": 0.7248556149732621,
+        "y": 0.08075225209058615,
+        "width": 0.1601711229946523,
+        "height": 0.2687434949574703,
+        "originalWidth": 1000,
+        "originalHeight": 596
+      },
+      "__v": 0
+    },
+    {
+      "_id": "690a51fb63096e3817832e61",
+      "fideId": 35007394,
+      "name": "Raja Rithvik R",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.41245624999999997,
+        "y": 0,
+        "width": 0.4988604166666667,
+        "height": 0.7479166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/raja_rithvik_r.jpeg",
+      "rating": {
+        "blitz": 2414,
+        "rapid": 2435,
+        "std": 2521
+      }
+    },
+    {
+      "_id": "6a516d6f34c046e72e33ec0d",
+      "fideId": 1048333,
+      "name": "Vrolijk, Liam",
+      "federation": "Netherlands",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "rating": {
+        "std": 2519,
+        "rapid": 2522,
+        "blitz": 2528
+      },
+      "thumbUrl": "playerImages/vrolijk__liam.jpeg",
+      "thumbReframe": {
+        "x": 0.08451458333333334,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a4ebfa3ddbca4783c9fca8b",
+      "fideId": 46694919,
+      "name": "Aswath, S",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2008,
+      "rating": {
+        "std": 2517,
+        "rapid": 2371,
+        "blitz": 2415
+      },
+      "thumbUrl": "playerImages/aswath__s.jpeg",
+      "thumbReframe": {
+        "x": 0.16625,
+        "y": 0,
+        "width": 0.6675,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 801
+      },
+      "__v": 0
+    },
+    {
+      "_id": "69596045fe60a636b8e725e5",
+      "fideId": 5089000,
+      "name": "Raja Harshit",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3722222222222221,
+        "y": 0,
+        "width": 0.6055555555555555,
+        "height": 0.9083333333333333,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/raja_harshit.jpeg",
+      "rating": {
+        "blitz": 2455,
+        "rapid": 2436,
+        "std": 2499
+      }
+    },
+    {
+      "_id": "6a84b5943d39c1c88eb49a2b",
+      "fideId": 55653537,
+      "name": "Shogdzhiev, Roman",
+      "federation": "FIDE",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2015,
+      "rating": {
+        "std": 2464,
+        "rapid": 2386,
+        "blitz": 2429
+      },
+      "thumbUrl": "playerImages/shogdzhiev__roman.jpeg",
+      "thumbReframe": {
+        "x": 0.006570312500000064,
+        "y": 0,
+        "width": 0.7112499999999999,
+        "height": 1,
+        "originalWidth": 800,
+        "originalHeight": 569
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a6ea2ba66202e5da88409a8",
+      "fideId": 25983504,
+      "name": "Goutham Krishna H",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2010,
+      "rating": {
+        "std": 2451,
+        "rapid": 2489,
+        "blitz": 2485
+      },
+      "thumbUrl": "playerImages/goutham_krishna_h.jpeg",
+      "thumbReframe": {
+        "x": 0.16150000000000003,
+        "y": 0,
+        "width": 0.6769999999999999,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 677
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a5700eaee124fa97721140e",
+      "fideId": 13500139,
+      "name": "Aleksandrov, Aleksej",
+      "federation": "Belarus",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1973,
+      "rating": {
+        "std": 2449,
+        "rapid": 2424,
+        "blitz": 2339
+      },
+      "thumbUrl": "playerImages/aleksandrov__aleksej.jpeg",
+      "thumbReframe": {
+        "x": 0.22187500000000004,
+        "y": 0.03125,
+        "width": 0.3838125,
+        "height": 0.5750000000000001,
+        "originalWidth": 1200,
+        "originalHeight": 801
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a4dca5cddbca4783c9f0581",
+      "fideId": 2019353,
+      "name": "Bartholomew, John",
+      "federation": "United States of America",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "rating": {
+        "std": 2446,
+        "rapid": 2443,
+        "blitz": 2416
+      },
+      "thumbUrl": "playerImages/bartholomew__john.jpeg",
+      "thumbReframe": {
+        "x": 0.10781249999999998,
+        "y": 0.033333333333333326,
+        "width": 0.4265625,
+        "height": 0.56875,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a6d3bab66202e5da88378d5",
+      "fideId": 14210444,
+      "name": "Khamdamova Afruza",
+      "federation": "Uzbekistan",
+      "title": "WGM",
+      "sex": "Female",
+      "birthYear": 2009,
+      "rating": {
+        "std": 2440,
+        "rapid": 2322,
+        "blitz": 2243
+      },
+      "thumbUrl": "playerImages/khamdamova_afruza.jpeg",
+      "thumbReframe": {
+        "x": 0.08749999999999997,
+        "y": 0.20625000000000004,
+        "width": 0.48125000000000007,
+        "height": 0.6416666666666667,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a778878e947be9a87f770f7",
+      "fideId": 1054430,
+      "name": "Yichen Hans",
+      "federation": "Netherlands",
+      "rating": {
+        "std": 2437,
+        "rapid": 2400,
+        "blitz": 2400
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a854ddd3d39c1c88eb49a96",
+      "fideId": 14212285,
+      "name": "Bakhrom Bakhrillaev",
+      "federation": "Uzbekistan",
+      "title": "IM",
+      "rating": {
+        "std": 2427,
+        "rapid": 2279,
+        "blitz": 2337
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a5172f934c046e72e33eca9",
+      "fideId": 1553259,
+      "name": "Elmi, Saad Abobaker",
+      "federation": "Norway",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "rating": {
+        "std": 2399,
+        "rapid": 2262,
+        "blitz": 2409
+      },
+      "thumbUrl": "playerImages/elmi__saad_abobaker.jpeg",
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.83,
+        "originalWidth": 332,
+        "originalHeight": 400
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a5502d3ee124fa9771ffa34",
+      "fideId": 14502712,
+      "name": "Kovacevic, Blazimir",
+      "federation": "Croatia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1975,
+      "rating": {
+        "std": 2380,
+        "rapid": 2452,
+        "blitz": 2386
+      },
+      "thumbUrl": "playerImages/kovacevic__blazimir.jpeg",
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.04102620730270906,
+        "width": 1,
+        "height": 0.7137809187279152,
+        "originalWidth": 202,
+        "originalHeight": 283
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a6d328e66202e5da8837780",
+      "fideId": 4167570,
+      "name": "Gunina, Valentina",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1989,
+      "rating": {
+        "std": 2374,
+        "rapid": 2306,
+        "blitz": 2297
+      },
+      "thumbUrl": "playerImages/gunina__valentina.jpeg",
+      "thumbReframe": {
+        "x": 0.16649999999999998,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a59be3bacbe01b02b8848e3",
+      "fideId": 35061887,
+      "name": "Savitha Shri B",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2007,
+      "rating": {
+        "std": 2368,
+        "rapid": 2317,
+        "blitz": 2161
+      },
+      "thumbUrl": "playerImages/savitha_shri_b.jpeg",
+      "thumbReframe": {
+        "x": 0.3218044916788737,
+        "y": 0,
+        "width": 0.5160861333211263,
+        "height": 0.7636881510416667,
+        "originalWidth": 1024,
+        "originalHeight": 692
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a53a8dd34c046e72e3506e7",
+      "fideId": 8609047,
+      "name": "Peng, Hongchi",
+      "federation": "China",
+      "sex": "Male",
+      "birthYear": 2002,
+      "rating": {
+        "std": 2365,
+        "rapid": 2316,
+        "blitz": 2353
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a4ebff2ddbca4783c9fcab6",
+      "fideId": 30987245,
+      "name": "Vaidyanathan, Kannan",
+      "federation": "United States of America",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2013,
+      "rating": {
+        "std": 2364,
+        "rapid": 2204,
+        "blitz": 1902
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a529be334c046e72e348b5c",
+      "fideId": 12401226,
+      "name": "Pham, Le Thao Nguyen",
+      "federation": "Vietnam",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 1987,
+      "rating": {
+        "std": 2348,
+        "rapid": 2296,
+        "blitz": 2215
+      },
+      "thumbUrl": "playerImages/pham__le_thao_nguyen.jpeg",
+      "thumbReframe": {
+        "x": 0.6048823529411765,
+        "y": 0.14458967674197198,
+        "width": 0.35233689839572185,
+        "height": 0.586251078861434,
+        "originalWidth": 1000,
+        "originalHeight": 601
+      },
+      "__v": 0
+    },
+    {
+      "_id": "68b2b49504ee45028cfb6cae",
+      "fideId": 33408947,
+      "name": "Aarit Kapil",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2015,
+      "__v": 0,
+      "thumbUrl": "https://cbin.b-cdn.net/img/PA/paste-01kt5sd5qyw1yp049mm39dpapb_01KT5SD5QYW1YP049MM39DPAPB_800x450.jpeg",
+      "rating": {
+        "blitz": 2336,
+        "rapid": 2137,
+        "std": 2331
+      },
+      "thumbReframe": null
+    },
+    {
+      "_id": "6a4dc9cbddbca4783c9f054f",
+      "fideId": 2039877,
+      "name": "Rozman, Levy",
+      "federation": "United States of America",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1995,
+      "rating": {
+        "std": 2318,
+        "rapid": 2327,
+        "blitz": 2366
+      },
+      "thumbUrl": "playerImages/rozman__levy.jpeg",
+      "thumbReframe": {
+        "x": 0.3468422459893049,
+        "y": 0.1567234353777035,
+        "width": 0.36246524064171115,
+        "height": 0.6438103741415829,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a5e0d6dacbe01b02b8a9acd",
+      "fideId": 34358978,
+      "name": "Tregubenko, Nikolay",
+      "federation": "FIDE",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2010,
+      "rating": {
+        "std": 2303,
+        "rapid": 2144,
+        "blitz": 2141
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a6d2e2666202e5da8837672",
+      "fideId": 13730096,
+      "name": "Nurgaliyeva Zarina",
+      "federation": "Kazakhstan",
+      "title": "WIM",
+      "rating": {
+        "std": 2302,
+        "rapid": 2184,
+        "blitz": 2233
+      },
+      "thumbUrl": "playerImages/nurgaliyeva_zarina.jpeg",
+      "thumbReframe": {
+        "x": 0.04560624999999999,
+        "y": 0.13958333333333334,
+        "width": 0.30015000000000003,
+        "height": 0.45,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a8205f31ba044243758d7d5",
+      "fideId": 45081506,
+      "name": "Potawad Anirudhha",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "rating": {
+        "std": 2300,
+        "rapid": 2300,
+        "blitz": 2300
+      },
+      "thumbUrl": "playerImages/potawad_anirudhha.jpeg",
+      "thumbReframe": {
+        "x": 0.2527499999999999,
+        "y": 0,
+        "width": 0.645,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 645
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a84b8e03d39c1c88eb49a32",
+      "fideId": 366108941,
+      "name": "Binu, Devdutt",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2011,
+      "rating": {
+        "std": 2291,
+        "rapid": 0,
+        "blitz": 1999
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a74287ae947be9a87f4f486",
+      "fideId": 366112022,
+      "name": "Mani, Sarbartho",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2016,
+      "rating": {
+        "std": 2273,
+        "rapid": 2076,
+        "blitz": 2292
+      },
+      "thumbUrl": "playerImages/mani__sarbartho.jpeg",
+      "thumbReframe": {
+        "x": 0.21249999999999997,
+        "y": 0.08125000000000016,
+        "width": 0.5888888888888888,
+        "height": 0.8833333333333332,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a55027fee124fa9771ff9df",
+      "fideId": 25165518,
+      "name": "Charvi A",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Female",
+      "birthYear": 2014,
+      "rating": {
+        "std": 2204,
+        "rapid": 1945,
+        "blitz": 2315
+      },
+      "thumbUrl": "playerImages/charvi_a.jpeg",
+      "thumbReframe": {
+        "x": 0.1275909090909091,
+        "y": 0,
+        "width": 0.563,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a84b5dd3d39c1c88eb49a2d",
+      "fideId": 25157760,
+      "name": "Darshan G",
+      "federation": "India",
+      "title": "CM",
+      "sex": "Male",
+      "birthYear": 2013,
+      "rating": {
+        "std": 2185,
+        "rapid": 1818,
+        "blitz": 2052
+      },
+      "thumbUrl": "playerImages/darshan_g.jpeg",
+      "thumbReframe": {
+        "x": 0.5519895833333335,
+        "y": 0.29166666666666663,
+        "width": 0.3579854166666666,
+        "height": 0.5020833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 713
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a7788d7e947be9a87f77117",
+      "fideId": 33496463,
+      "name": "Avadhoot Brahme",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2010,
+      "rating": {
+        "std": 2183,
+        "rapid": 2100,
+        "blitz": 2100
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a6d2ba166202e5da88375f1",
+      "fideId": 8602417,
+      "name": "Tian Tian",
+      "federation": "China",
+      "title": "WGM",
+      "sex": "Female",
+      "birthYear": 1983,
+      "rating": {
+        "std": 2096,
+        "rapid": 2131,
+        "blitz": 1997
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a520fb734c046e72e343fcc",
+      "fideId": 2059150,
+      "name": "Obrien, Matthew",
+      "federation": "United States of America",
+      "sex": "Male",
+      "birthYear": 1988,
+      "rating": {
+        "std": 2094,
+        "rapid": 0,
+        "blitz": 0
+      },
+      "thumbUrl": "playerImages/obrien__matthew.jpeg",
+      "thumbReframe": {
+        "x": 0.003124999999999989,
+        "y": 0,
+        "width": 0.99375,
+        "height": 1,
+        "originalWidth": 800,
+        "originalHeight": 795
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a8207861ba044243758d7d6",
+      "fideId": 14228394,
+      "name": "Abdulazizov, Asilbek",
+      "federation": "Uzbekistan",
+      "title": "CM",
+      "sex": "Male",
+      "birthYear": 2012,
+      "rating": {
+        "std": 2031,
+        "rapid": 1613,
+        "blitz": 1976
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a52e72734c046e72e349fc1",
+      "fideId": 5037921,
+      "name": "Niklesh Kumar Jain",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1984,
+      "rating": {
+        "std": 1975,
+        "rapid": 1931,
+        "blitz": 1922
+      },
+      "thumbUrl": "playerImages/niklesh_kumar_jain.jpeg",
+      "thumbReframe": {
+        "x": 0.1375,
+        "y": 0,
+        "width": 0.725,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 870
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a52e74e34c046e72e349fcc",
+      "fideId": 94707294,
+      "name": "Garcia Canals, Gerard",
+      "federation": "Spain",
+      "sex": "Male",
+      "birthYear": 2010,
+      "rating": {
+        "std": 1964,
+        "rapid": 2018,
+        "blitz": 1829
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a521ad334c046e72e34486c",
+      "fideId": 14970309,
+      "name": "Pankova, Yelyzaveta",
+      "federation": "Slovakia",
+      "sex": "Female",
+      "birthYear": 2001,
+      "rating": {
+        "std": 1861,
+        "rapid": 1872,
+        "blitz": 0
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a742a38e947be9a87f4f4eb",
+      "fideId": 33434107,
+      "name": "Patil Varad Sayaji",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2015,
+      "rating": {
+        "std": 1764,
+        "rapid": 1813,
+        "blitz": 1676
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a77709ce947be9a87f7690c",
+      "fideId": 429036402,
+      "name": "Devansh Keshri",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2015,
+      "rating": {
+        "std": 1687,
+        "rapid": 1769,
+        "blitz": 1810
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a521fc834c046e72e345084",
+      "fideId": 88149498,
+      "name": "Anvi Deepak Hinge",
+      "federation": "India",
+      "title": "WCM",
+      "sex": "Female",
+      "birthYear": 2017,
+      "rating": {
+        "std": 1673,
+        "rapid": 1580,
+        "blitz": 1615
+      },
+      "thumbUrl": "playerImages/anvi_deepak_hinge.jpeg",
+      "thumbReframe": {
+        "x": 0.27963125,
+        "y": 0.5125,
+        "width": 0.32028750000000006,
+        "height": 0.48750000000000004,
+        "originalWidth": 1000,
+        "originalHeight": 657
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a52201a34c046e72e3450c1",
+      "fideId": 531059783,
+      "name": "Sai Anshitha Puvvala",
+      "federation": "India",
+      "sex": "Female",
+      "birthYear": 2017,
+      "rating": {
+        "std": 1645,
+        "rapid": 1516,
+        "blitz": 1617
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a6ea33366202e5da88409d3",
+      "fideId": 6011497,
+      "name": "Leung Joy San Lucas",
+      "federation": "Hong Kong",
+      "sex": "Male",
+      "birthYear": 2013,
+      "rating": {
+        "std": 1632,
+        "rapid": 1537,
+        "blitz": 1592
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a53aaf434c046e72e350993",
+      "fideId": 30962641,
+      "name": "Chen, Jonathan",
+      "federation": "United States of America",
+      "sex": "Male",
+      "birthYear": 1997,
+      "rating": {
+        "std": 0,
+        "rapid": 0,
+        "blitz": 1753
+      },
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "66ad3139d2bdec9c1e95fac3",
+      "fideId": 12100030,
+      "name": "Al-Mudahka, Mohd",
+      "federation": "Qatar",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1974,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.7484940727975351,
+        "y": 0.13772521685831596,
+        "width": 0.1966936654655595,
+        "height": 0.34936707897967945,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/MA/Magnus%20Carlsen%20Mudahka_4KZM4_1000x563.jpeg"
+    },
+    {
+      "_id": "66ad3538d2bdec9c1e95fada",
+      "fideId": 25060783,
+      "name": "Pranav, V",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16666666666666669,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/pranav__v.jpeg"
+    },
+    {
+      "_id": "66af5c7dd2bdec9c1e96008e",
+      "fideId": 1185934,
+      "name": "Teclaf, Pawel",
+      "federation": "Poland",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16649999999999998,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/teclaf__pawel.jpeg"
+    },
+    {
+      "_id": "66b71177d2bdec9c1e961244",
+      "fideId": 4901541,
+      "name": "Bilguun, Sumiya",
+      "federation": "Mongolia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1997,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1394907407407407,
+        "y": 0.10416666666666663,
+        "width": 0.5102592592592593,
+        "height": 0.7666666666666667,
+        "originalWidth": 900,
+        "originalHeight": 599
+      },
+      "thumbUrl": "playerImages/bilguun__sumiya.jpeg"
+    },
+    {
+      "_id": "66c4e586d2bdec9c1e964aaf",
+      "fideId": 4129199,
+      "name": "Grachev, Boris",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "__v": 0
+    },
+    {
+      "_id": "66c4e627d2bdec9c1e964abe",
+      "fideId": 24106801,
+      "name": "Shishkin, Vadim",
+      "federation": "Russia",
+      "title": "CM",
+      "sex": "Male",
+      "birthYear": 1980,
+      "__v": 0,
+      "thumbReframe": null
+    },
+    {
+      "_id": "66c80210ac0138b1cd061f12",
+      "fideId": 5058422,
+      "name": "Narayanan S L",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1998,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.21875,
+        "y": 0,
+        "width": 0.5625,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 675
+      },
+      "thumbUrl": "playerImages/narayanan_s_l.jpeg"
+    },
+    {
+      "_id": "66d485f36474c87909044f01",
+      "fideId": 5028183,
+      "name": "Swayams, Mishra",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16583333333333333,
+        "y": 0,
+        "width": 0.6683333333333333,
+        "height": 1,
+        "originalWidth": 600,
+        "originalHeight": 401
+      },
+      "thumbUrl": "playerImages/swayams__mishra.jpeg"
+    },
+    {
+      "_id": "66d486186474c87909044f03",
+      "fideId": 5022509,
+      "name": "Sagar, Shah",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.08125000000000004,
+        "width": 1,
+        "height": 0.75,
+        "originalWidth": 900,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/sagar__shah.jpeg"
+    },
+    {
+      "_id": "66e2164ea5af8b8cba6f4f1e",
+      "fideId": 6700098,
+      "name": "Chavez, Ricardo Ernesto",
+      "federation": "El Salvador",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 1982,
+      "__v": 0
+    },
+    {
+      "_id": "66e2166da5af8b8cba6f4f32",
+      "fideId": 4189302,
+      "name": "Sjugirov, Sanan",
+      "federation": "Hungary",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1993,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5444444444444445,
+        "y": 0.18958333333333333,
+        "width": 0.4555555555555555,
+        "height": 0.6833333333333332,
+        "originalWidth": 600,
+        "originalHeight": 400
+      },
+      "thumbUrl": "playerImages/sjugirov__sanan.jpeg"
+    },
+    {
+      "_id": "66e27276a5af8b8cba6f639e",
+      "fideId": 9000127,
+      "name": "Elbilia, Jacques",
+      "federation": "Morocco",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 1971,
+      "__v": 0
+    },
+    {
+      "_id": "66e2775fa5af8b8cba6f64c0",
+      "fideId": 6416896,
+      "name": "Araujo Sanchez, Josue",
+      "federation": "Dominican Republic",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0
+    },
+    {
+      "_id": "66ebcdfca5af8b8cba70f24c",
+      "fideId": 1634852,
+      "name": "Dragnev, Valentin",
+      "federation": "Austria",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.21299479166666668,
+        "y": 0.07291666666666663,
+        "width": 0.5336067708333334,
+        "height": 0.7979166666666667,
+        "originalWidth": 640,
+        "originalHeight": 428
+      },
+      "thumbUrl": "playerImages/dragnev__valentin.jpeg"
+    },
+    {
+      "_id": "670765c3f7535048e50ac4ea",
+      "fideId": 1444948,
+      "name": "Bjerre, Jonas Buhl",
+      "federation": "Denmark",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22935208333333335,
+        "y": 0.02916666666666673,
+        "width": 0.6043916666666667,
+        "height": 0.7583333333333334,
+        "originalWidth": 1000,
+        "originalHeight": 797
+      },
+      "thumbUrl": "playerImages/bjerre__jonas_buhl.jpeg"
+    },
+    {
+      "_id": "670765e5f7535048e50ac4ec",
+      "fideId": 44155573,
+      "name": "Murzin, Volodar",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.09967500000000001,
+        "y": 0.07916666666666661,
+        "width": 0.60795625,
+        "height": 0.8479166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 717
+      },
+      "thumbUrl": "playerImages/murzin__volodar.jpeg"
+    },
+    {
+      "_id": "67079c7ff7535048e50ac61f",
+      "fideId": 35093487,
+      "name": "Sadhwani, Raunak",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.27210833333333334,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/sadhwani__raunak.jpeg"
+    },
+    {
+      "_id": "670d9a04f7535048e50af885",
+      "fideId": 497592,
+      "name": "Sivanandan, Bodhana",
+      "federation": "England",
+      "title": "WFM",
+      "sex": "Female",
+      "birthYear": 2015,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2569708333333333,
+        "y": 0.1020833333333333,
+        "width": 0.5692875,
+        "height": 0.7124999999999999,
+        "originalWidth": 1000,
+        "originalHeight": 799
+      },
+      "thumbUrl": "playerImages/sivanandan__bodhana.jpeg"
+    },
+    {
+      "_id": "670d9c62f7535048e50af8b4",
+      "fideId": 448869,
+      "name": "Royal, Shreyas",
+      "federation": "England",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2009,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3124062500000001,
+        "y": 0.07499999999999996,
+        "width": 0.5433270833333332,
+        "height": 0.8145833333333331,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/royal__shreyas.jpeg"
+    },
+    {
+      "_id": "672d7b90f7535048e50c2aca",
+      "fideId": 5061245,
+      "name": "Puranik, Abhimanyu",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.125,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/puranik__abhimanyu.jpeg"
+    },
+    {
+      "_id": "672d7c8ef7535048e50c2ad5",
+      "fideId": 5074452,
+      "name": "Karthikeyan, Murali",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.44560606060606067,
+        "y": 0,
+        "width": 0.46975044563279855,
+        "height": 0.8338765307091098,
+        "originalWidth": 1200,
+        "originalHeight": 676
+      },
+      "thumbUrl": "playerImages/karthikeyan__murali.jpeg"
+    },
+    {
+      "_id": "672e6589f7535048e50c3a1b",
+      "fideId": 5091756,
+      "name": "Vaishali, Rameshbabu",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22970811051693413,
+        "y": 0.037946130548743184,
+        "width": 0.503150623885918,
+        "height": 0.7934044003457315,
+        "originalWidth": 1200,
+        "originalHeight": 761
+      },
+      "thumbUrl": "playerImages/vaishali__rameshbabu.jpeg"
+    },
+    {
+      "_id": "672e65baf7535048e50c3a23",
+      "fideId": 35028561,
+      "name": "Mendonca, Leon Luke",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.28600416666666667,
+        "y": 0,
+        "width": 0.616975,
+        "height": 0.925,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/mendonca__leon_luke.jpeg"
+    },
+    {
+      "_id": "6754f1afd16e111ca246f15f",
+      "fideId": 2801990,
+      "name": "Smirin, Ilia",
+      "federation": "Israel",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1968,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.23127346683354205,
+        "y": 0,
+        "width": 0.6683354192740926,
+        "height": 1,
+        "originalWidth": 799,
+        "originalHeight": 534
+      },
+      "thumbUrl": "playerImages/smirin__ilia.jpeg"
+    },
+    {
+      "_id": "677878ccd4b6344015d2fda5",
+      "fideId": 4198603,
+      "name": "Shimanov, Aleksandr",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.03283333333333327,
+        "width": 1,
+        "height": 0.901,
+        "originalWidth": 901,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/shimanov__aleksandr.jpeg"
+    },
+    {
+      "_id": "67787a67d4b6344015d2fe54",
+      "fideId": 1510045,
+      "name": "Tari, Aryan",
+      "federation": "Norway",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.12759166666666666,
+        "y": 0.029166666666666674,
+        "width": 0.6058583333333334,
+        "height": 0.9083333333333333,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/tari__aryan.jpeg"
+    },
+    {
+      "_id": "67787c55d4b6344015d2fec8",
+      "fideId": 13402935,
+      "name": "Durarbayli, Vasif",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.34143749999999995,
+        "y": 0,
+        "width": 0.645,
+        "height": 1,
+        "originalWidth": 800,
+        "originalHeight": 516
+      },
+      "thumbUrl": "playerImages/durarbayli__vasif.jpeg"
+    },
+    {
+      "_id": "67787cc4d4b6344015d2fee1",
+      "fideId": 13515110,
+      "name": "Lazavik, Denis",
+      "federation": "Belarus",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.06724598930481279,
+        "y": 0.0656295576081673,
+        "width": 0.3614973262032085,
+        "height": 0.6572678658240154,
+        "originalWidth": 1000,
+        "originalHeight": 550
+      },
+      "thumbUrl": "playerImages/lazavik__denis.jpeg"
+    },
+    {
+      "_id": "67787daad4b6344015d2ff4b",
+      "fideId": 12501255,
+      "name": "Moradiabadi, Elshan",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1985,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1439192708333334,
+        "y": 0,
+        "width": 0.6947916666666666,
+        "height": 1,
+        "originalWidth": 960,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/moradiabadi__elshan.jpeg"
+    },
+    {
+      "_id": "6778824dd4b6344015d300e4",
+      "fideId": 13402129,
+      "name": "Safarli, Eltaj",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10396874999999994,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/safarli__eltaj.jpeg"
+    },
+    {
+      "_id": "67793443d4b6344015d309d8",
+      "fideId": 12401153,
+      "name": "Le, Tuan Minh",
+      "federation": "Vietnam",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1996,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.0622083333333332,
+        "y": 0,
+        "width": 0.58603125,
+        "height": 0.88125,
+        "originalWidth": 1000,
+        "originalHeight": 665
+      },
+      "thumbUrl": "playerImages/le__tuan_minh.jpeg"
+    },
+    {
+      "_id": "678eb1cfd4b6344015d88868",
+      "fideId": 8618020,
+      "name": "Lu, Miaoyi",
+      "federation": "China",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2010,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5476708333333336,
+        "y": 0.2791666666666668,
+        "width": 0.36734583333333315,
+        "height": 0.5458333333333332,
+        "originalWidth": 1000,
+        "originalHeight": 673
+      },
+      "thumbUrl": "playerImages/lu__miaoyi.jpeg"
+    },
+    {
+      "_id": "6790417ad4b6344015d8efcd",
+      "fideId": 5007003,
+      "name": "Harikrishna, Pentala",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.02916666666666673,
+        "width": 1,
+        "height": 0.85,
+        "originalWidth": 1020,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/harikrishna__pentala.jpeg"
+    },
+    {
+      "_id": "67904186d4b6344015d8efd2",
+      "fideId": 1048104,
+      "name": "Warmerdam, Max",
+      "federation": "Netherlands",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2761499999999999,
+        "y": 0.01666666666666672,
+        "width": 0.6095375000000001,
+        "height": 0.8395833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 726
+      },
+      "thumbUrl": "playerImages/warmerdam__max.jpeg"
+    },
+    {
+      "_id": "6790d648d4b6344015d8fbb2",
+      "fideId": 14203987,
+      "name": "Yakubboev, Nodirbek",
+      "federation": "Uzbekistan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.23194444444444445,
+        "y": 0.08541666666666681,
+        "width": 0.5069444444444444,
+        "height": 0.7604166666666666,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/yakubboev__nodirbek.webp"
+    },
+    {
+      "_id": "6791663dd4b6344015da3aef",
+      "fideId": 358878,
+      "name": "Nguyen, Thai Dai Van",
+      "federation": "Czech Republic",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3268229166666666,
+        "y": 0.36250000000000004,
+        "width": 0.3269583333333334,
+        "height": 0.49166666666666675,
+        "originalWidth": 1000,
+        "originalHeight": 665
+      },
+      "thumbUrl": "playerImages/nguyen__thai_dai_van.jpeg"
+    },
+    {
+      "_id": "67916661d4b6344015da3af3",
+      "fideId": 44507356,
+      "name": "Gurel, Ediz",
+      "federation": "Turkiye",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2008,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.25924166666666665,
+        "y": 0,
+        "width": 0.668,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 668
+      },
+      "thumbUrl": "playerImages/gurel__ediz.jpeg"
+    },
+    {
+      "_id": "6791670cd4b6344015da3b14",
+      "fideId": 1017063,
+      "name": "Bok, Benjamin",
+      "federation": "Netherlands",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1995,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.07900000000000001,
+        "width": 1,
+        "height": 0.667,
+        "originalWidth": 667,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/bok__benjamin.jpeg"
+    },
+    {
+      "_id": "679550a2343dfb7126f9fd59",
+      "fideId": 20000197,
+      "name": "Oro, Faustino",
+      "federation": "Argentina",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2013,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10256944444444444,
+        "y": 0.02083333333333337,
+        "width": 0.5752638888888889,
+        "height": 0.8895833333333334,
+        "originalWidth": 1200,
+        "originalHeight": 776
+      },
+      "thumbUrl": "playerImages/oro__faustino.jpeg"
+    },
+    {
+      "_id": "679df97464188995ce088fdf",
+      "fideId": 24133795,
+      "name": "Sarana, Alexey",
+      "federation": "Serbia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0
+    },
+    {
+      "_id": "67b6dd8d7fdc097a86a98f6e",
+      "fideId": 24126055,
+      "name": "Dubov, Daniil",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1996,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.38049583333333337,
+        "y": 0.1479166666666667,
+        "width": 0.49608125000000003,
+        "height": 0.74375,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/dubov__daniil.jpeg"
+    },
+    {
+      "_id": "67c01157049560a0cc38269f",
+      "fideId": 2004887,
+      "name": "Shankland, Sam",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1991,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.08173541666666662,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/shankland__sam.jpeg"
+    },
+    {
+      "_id": "67c01aca049560a0cc382900",
+      "fideId": 5072786,
+      "name": "Aravindh, Chithambaram VR.",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1651104166666666,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/AR/aravindh_10_01KK0N1Y7M7ST9RXDMK1NBXH93_1000x667.jpeg"
+    },
+    {
+      "_id": "67d282a7049560a0cc39bff6",
+      "fideId": 25647709,
+      "name": "Adireddy Arjun",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2010,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.18611111111111112,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/adireddy_arjun.jpeg"
+    },
+    {
+      "_id": "67d9e32e049560a0cc3a2f92",
+      "fideId": 5015197,
+      "name": "Dronavalli, Harika",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1991,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.05775075987841943,
+        "y": 0,
+        "width": 0.878419452887538,
+        "height": 0.6020833333333333,
+        "originalWidth": 658,
+        "originalHeight": 960
+      },
+      "thumbUrl": "playerImages/dronavalli__harika.jpeg"
+    },
+    {
+      "_id": "67d9e352049560a0cc3a2f94",
+      "fideId": 13509926,
+      "name": "Badelka, Olga",
+      "federation": "Austria",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.00808749999999997,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/badelka__olga.jpeg"
+    },
+    {
+      "_id": "67db274f049560a0cc3a3e43",
+      "fideId": 4264312,
+      "name": "Tsolakidou, Stavroula",
+      "federation": "Greece",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.0769583333333334,
+        "y": 0,
+        "width": 0.6508333333333333,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 781
+      },
+      "thumbUrl": "playerImages/tsolakidou__stavroula.jpeg"
+    },
+    {
+      "_id": "67db2771049560a0cc3a3e45",
+      "fideId": 14111330,
+      "name": "Muzychuk, Anna",
+      "federation": "Ukraine",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1235746527777778,
+        "y": 0,
+        "width": 0.7141666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 857
+      },
+      "thumbUrl": "playerImages/muzychuk__anna.jpeg"
+    },
+    {
+      "_id": "67dd0d71265e0275ac7d8b82",
+      "fideId": 14217937,
+      "name": "Umarov, Bekhruz",
+      "federation": "Uzbekistan",
+      "sex": "Male",
+      "birthYear": 2007,
+      "__v": 0
+    },
+    {
+      "_id": "67ddb82141721852bbeca1fd",
+      "fideId": 13601903,
+      "name": "Dzagnidze, Nana",
+      "federation": "Georgia",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.37051875,
+        "y": 0.09583333333333349,
+        "width": 0.5864041666666666,
+        "height": 0.8791666666666665,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/dzagnidze__nana.jpeg"
+    },
+    {
+      "_id": "67e2351641721852bbecda37",
+      "fideId": 2008653,
+      "name": "Fischer, Robert J",
+      "federation": "United States of America",
+      "sex": "Male",
+      "birthYear": 1960,
+      "__v": 0
+    },
+    {
+      "_id": "67e2352d41721852bbecda3c",
+      "fideId": 2002582,
+      "name": "Shocron, Ruben",
+      "federation": "United States of America",
+      "sex": "Male",
+      "birthYear": 1921,
+      "__v": 0
+    },
+    {
+      "_id": "67e9fd0941721852bbed7aca",
+      "fideId": 21874697,
+      "name": "Seemann, Jakub",
+      "federation": "Poland",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2008,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.26625624999999997,
+        "y": 0.04791666666666661,
+        "width": 0.61495,
+        "height": 0.8166666666666667,
+        "originalWidth": 1000,
+        "originalHeight": 753
+      },
+      "thumbUrl": "playerImages/seemann__jakub.jpeg"
+    },
+    {
+      "_id": "67f72526b0155b5e8b7f2b2d",
+      "fideId": 13409301,
+      "name": "Muradli, Mahammad",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.15958333333333335,
+        "y": 0.03125,
+        "width": 0.6934999999999999,
+        "height": 0.9125,
+        "originalWidth": 400,
+        "originalHeight": 304
+      },
+      "thumbUrl": "playerImages/muradli__mahammad.jpeg"
+    },
+    {
+      "_id": "67f72549b0155b5e8b7f2b2f",
+      "fideId": 35043943,
+      "name": "Pattnayak Nilsu",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3276916666666666,
+        "y": 0,
+        "width": 0.5502750000000001,
+        "height": 0.8250000000000001,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/pattnayak_nilsu.jpeg"
+    },
+    {
+      "_id": "67fe5061056baa2216016e0c",
+      "fideId": 35006916,
+      "name": "Divya Deshmukh",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.07916666666666666,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/divya_deshmukh.jpeg"
+    },
+    {
+      "_id": "67ff47e8056baa2216017272",
+      "fideId": 13602446,
+      "name": "Melia, Salome",
+      "federation": "Georgia",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 1987,
+      "__v": 0
+    },
+    {
+      "_id": "67ff4809056baa2216017274",
+      "fideId": 4900758,
+      "name": "Batkhuyag, Munguntuul",
+      "federation": "Mongolia",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22903125000000002,
+        "y": 0.10833333333333328,
+        "width": 0.47940625000000003,
+        "height": 0.71875,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/batkhuyag__munguntuul.jpeg"
+    },
+    {
+      "_id": "681122ef8a9a4118f0a3fe2a",
+      "fideId": 1226380,
+      "name": "Deac, Bogdan-Daniel",
+      "federation": "Romania",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.128,
+        "y": 0,
+        "width": 0.744,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 744
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/DE/Deac_6QZ89_1000x744.jpeg"
+    },
+    {
+      "_id": "6814ad168a9a4118f0a47f32",
+      "fideId": 1227190,
+      "name": "Gavrilescu, David",
+      "federation": "Romania",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.23181041666666669,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/gavrilescu__david.jpeg"
+    },
+    {
+      "_id": "68184a758a9a4118f0a4ea05",
+      "fideId": 4101588,
+      "name": "Kramnik, Vladimir",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1975,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.42656249999999984,
+        "y": 0.21666666666666662,
+        "width": 0.4531250000000001,
+        "height": 0.6041666666666669,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/kramnik__vladimir.jpeg"
+    },
+    {
+      "_id": "68184e418a9a4118f0a4ea8e",
+      "fideId": 2209390,
+      "name": "Shirov, Alexei",
+      "federation": "Spain",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1972,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.25126749674479165,
+        "y": 0,
+        "width": 0.6669921875,
+        "height": 1,
+        "originalWidth": 1024,
+        "originalHeight": 683
+      },
+      "thumbUrl": "playerImages/shirov__alexei.jpeg"
+    },
+    {
+      "_id": "68200be357efd8775f118485",
+      "fideId": 5006040,
+      "name": "Prathamesh, Sunil Mokal",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1983,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10252525252525257,
+        "y": 0,
+        "width": 0.7949494949494949,
+        "height": 1,
+        "originalWidth": 990,
+        "originalHeight": 787
+      },
+      "thumbUrl": "playerImages/prathamesh__sunil_mokal.jpeg"
+    },
+    {
+      "_id": "68200c0557efd8775f118487",
+      "fideId": 2003139,
+      "name": "Schain, Randolph",
+      "federation": "Cambodia",
+      "sex": "Male",
+      "birthYear": 1958,
+      "__v": 0
+    },
+    {
+      "_id": "68200d6b57efd8775f1184ca",
+      "fideId": 25035681,
+      "name": "Senthil Maran K",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1998,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.17500000000000004,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/senthil_maran_k.jpeg"
+    },
+    {
+      "_id": "68200d9357efd8775f1184cd",
+      "fideId": 45010943,
+      "name": "Ayush Sharma",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.15416666666666673,
+        "width": 1,
+        "height": 0.6666666666666666,
+        "originalWidth": 800,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/ayush_sharma.jpeg"
+    },
+    {
+      "_id": "68200e9c57efd8775f1184f4",
+      "fideId": 5818320,
+      "name": "Siddharth, Jagadeesh",
+      "federation": "Singapore",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2007,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.12343749999999998,
+        "y": 0.02083333333333337,
+        "width": 0.6875,
+        "height": 0.9166666666666666,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/siddharth__jagadeesh.jpeg"
+    },
+    {
+      "_id": "68200f7b57efd8775f118505",
+      "fideId": 45015775,
+      "name": "Ilamparthi A R",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2009,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22187500000000004,
+        "y": 0.12083333333333335,
+        "width": 0.46875,
+        "height": 0.625,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/ilamparthi_a_r.jpeg"
+    },
+    {
+      "_id": "68200f9b57efd8775f118508",
+      "fideId": 34189030,
+      "name": "Grebnev, Aleksey",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.15833333333333333,
+        "width": 0.42499999999999993,
+        "height": 0.5666666666666665,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/grebnev__aleksey.jpeg"
+    },
+    {
+      "_id": "6821a38657efd8775f11a8f4",
+      "fideId": 12576468,
+      "name": "Daneshvar, Bardiya",
+      "federation": "Iran",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.4457708333333332,
+        "y": 0.06458333333333333,
+        "width": 0.5542291666666668,
+        "height": 0.7708333333333334,
+        "originalWidth": 1000,
+        "originalHeight": 719
+      },
+      "thumbUrl": "playerImages/daneshvar__bardiya.jpeg"
+    },
+    {
+      "_id": "6821a3bb57efd8775f11a8f8",
+      "fideId": 25002767,
+      "name": "Iniyan, Pa",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2421875,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/iniyan__pa.jpeg"
+    },
+    {
+      "_id": "6821a55b57efd8775f11a90e",
+      "fideId": 24183750,
+      "name": "Lobanov, Sergei",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.18837500000000001,
+        "y": 0,
+        "width": 0.5915104166666667,
+        "height": 0.8541666666666667,
+        "originalWidth": 1200,
+        "originalHeight": 831
+      },
+      "thumbUrl": "playerImages/lobanov__sergei.jpeg"
+    },
+    {
+      "_id": "68314a4b19c6f901b5ca77d5",
+      "fideId": 4147332,
+      "name": "Savchenko, Boris",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.27812500000000007,
+        "y": 0.006249999999999867,
+        "width": 0.5359375,
+        "height": 0.7145833333333332,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/savchenko__boris.jpeg"
+    },
+    {
+      "_id": "68314a8a19c6f901b5ca77da",
+      "fideId": 33310688,
+      "name": "Avirat Chauhan",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2014,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.15950416666666672,
+        "y": 0.10625000000000012,
+        "width": 0.60605,
+        "height": 0.7749999999999999,
+        "originalWidth": 1000,
+        "originalHeight": 782
+      },
+      "thumbUrl": "playerImages/avirat_chauhan.jpeg"
+    },
+    {
+      "_id": "68314c9d19c6f901b5ca782d",
+      "fideId": 2000687,
+      "name": "Benko, Pal",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1928,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.19491666666666663,
+        "y": 0,
+        "width": 0.6973333333333334,
+        "height": 1,
+        "originalWidth": 750,
+        "originalHeight": 523
+      },
+      "thumbUrl": "playerImages/benko__pal.jpeg"
+    },
+    {
+      "_id": "68561b8f73efff48f4339c9e",
+      "fideId": 14204223,
+      "name": "Vokhidov, Shamsiddin",
+      "federation": "Uzbekistan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22968749999999993,
+        "y": 0.09166666666666667,
+        "width": 0.53125,
+        "height": 0.7083333333333334,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/vokhidov__shamsiddin.jpeg"
+    },
+    {
+      "_id": "685916e873efff48f4346c5d",
+      "fideId": 88108368,
+      "name": "Sattwik Swain",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2016,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.046875,
+        "y": 0.2020833333333334,
+        "width": 0.5984375,
+        "height": 0.7979166666666666,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/sattwik_swain.jpeg"
+    },
+    {
+      "_id": "685916fa73efff48f4346c5f",
+      "fideId": 33493030,
+      "name": "Divith Reddy Adulla",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2016,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5590916666666667,
+        "y": 0.07708333333333339,
+        "width": 0.44090833333333335,
+        "height": 0.6541666666666667,
+        "originalWidth": 1000,
+        "originalHeight": 674
+      },
+      "thumbUrl": "playerImages/divith_reddy_adulla.jpeg"
+    },
+    {
+      "_id": "68631f3a1a5ed8e5113760b4",
+      "fideId": 400025,
+      "name": "Short, Nigel D",
+      "federation": "England",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1965,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16649999999999998,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/short__nigel_d.jpeg"
+    },
+    {
+      "_id": "6863a8321a5ed8e511376b28",
+      "fideId": 2805677,
+      "name": "Gelfand, Boris",
+      "federation": "Israel",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1968,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5932166666666665,
+        "y": 0.12499999999999994,
+        "width": 0.37423749999999995,
+        "height": 0.56875,
+        "originalWidth": 1000,
+        "originalHeight": 658
+      },
+      "thumbUrl": "playerImages/gelfand__boris.jpeg"
+    },
+    {
+      "_id": "686591ff1a5ed8e51137b61a",
+      "fideId": 14508150,
+      "name": "Saric, Ivan",
+      "federation": "Croatia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.06208333333333335,
+        "width": 1,
+        "height": 0.705,
+        "originalWidth": 705,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/saric__ivan.jpeg"
+    },
+    {
+      "_id": "6868d41756161bb1d520c102",
+      "fideId": 33479011,
+      "name": "Divi Bijesh",
+      "federation": "India",
+      "title": "WCM",
+      "sex": "Female",
+      "birthYear": 2015,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.006416666666666626,
+        "width": 1,
+        "height": 0.533,
+        "originalWidth": 533,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/divi_bijesh.jpeg"
+    },
+    {
+      "_id": "6868d43756161bb1d520c104",
+      "fideId": 8655081,
+      "name": "Chen, Zhihan",
+      "federation": "China",
+      "title": "WCM",
+      "sex": "Female",
+      "birthYear": 2016,
+      "__v": 0
+    },
+    {
+      "_id": "686d280d56161bb1d52268ce",
+      "fideId": 777765,
+      "name": "Gaal, Zsoka",
+      "federation": "Hungary",
+      "title": "WGM",
+      "sex": "Female",
+      "birthYear": 2007,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.044216666666666626,
+        "y": 0.12916666666666665,
+        "width": 0.3904729166666667,
+        "height": 0.5854166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/gaal__zsoka.jpeg"
+    },
+    {
+      "_id": "686d283456161bb1d52268df",
+      "fideId": 5082986,
+      "name": "Priyanka, K",
+      "federation": "India",
+      "title": "WIM",
+      "sex": "Female",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16649999999999998,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/priyanka__k.jpeg"
+    },
+    {
+      "_id": "686e81cc56161bb1d5229568",
+      "fideId": 25050389,
+      "name": "Vantika Agrawal",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.04166666666666663,
+        "width": 1,
+        "height": 0.772,
+        "originalWidth": 772,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/vantika_agrawal.jpeg"
+    },
+    {
+      "_id": "686e81f056161bb1d5229571",
+      "fideId": 14110911,
+      "name": "Ushenina, Anna",
+      "federation": "Ukraine",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1985,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.09473958333333327,
+        "y": 0.029166666666666674,
+        "width": 0.678125,
+        "height": 0.875,
+        "originalWidth": 1000,
+        "originalHeight": 775
+      },
+      "thumbUrl": "playerImages/ushenina__anna.jpeg"
+    },
+    {
+      "_id": "6870fb6356161bb1d522c8b2",
+      "fideId": 14114550,
+      "name": "Muzychuk, Mariya",
+      "federation": "Ukraine",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.11802828375668445,
+        "y": 0.05316442552307776,
+        "width": 0.4524461062834225,
+        "height": 0.7496841631621758,
+        "originalWidth": 1024,
+        "originalHeight": 618
+      },
+      "thumbUrl": "playerImages/muzychuk__mariya.jpeg"
+    },
+    {
+      "_id": "6870fb8056161bb1d522c8b4",
+      "fideId": 3520498,
+      "name": "Cervantes Landeiro, Thalia",
+      "federation": "United States of America",
+      "title": "FM",
+      "sex": "Female",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.4767666666666667,
+        "y": 0.11249999999999977,
+        "width": 0.3688291666666667,
+        "height": 0.5291666666666668,
+        "originalWidth": 1000,
+        "originalHeight": 697
+      },
+      "thumbUrl": "playerImages/cervantes_landeiro__thalia.jpeg"
+    },
+    {
+      "_id": "6886ded356161bb1d5250399",
+      "fideId": 8605114,
+      "name": "Lei, Tingjie",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1997,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.25579999999999986,
+        "y": 0.13750000000000007,
+        "width": 0.502275,
+        "height": 0.7541666666666667,
+        "originalWidth": 1000,
+        "originalHeight": 666
+      },
+      "thumbUrl": "playerImages/lei__tingjie.jpeg"
+    },
+    {
+      "_id": "6886def856161bb1d525039e",
+      "fideId": 8603642,
+      "name": "Tan, Zhongyi",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1991,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.05895416666666664,
+        "y": 0,
+        "width": 0.6396624999999999,
+        "height": 0.9125,
+        "originalWidth": 1000,
+        "originalHeight": 701
+      },
+      "thumbUrl": "playerImages/tan__zhongyi.jpeg"
+    },
+    {
+      "_id": "6886e38f56161bb1d52503e8",
+      "fideId": 5008123,
+      "name": "Koneru, Humpy",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2549436795994993,
+        "y": 0.18125000000000002,
+        "width": 0.4553035043804754,
+        "height": 0.6812499999999998,
+        "originalWidth": 799,
+        "originalHeight": 534
+      },
+      "thumbUrl": "playerImages/koneru__humpy.jpeg"
+    },
+    {
+      "_id": "6896bf6b56161bb1d5269eec",
+      "fideId": 2023970,
+      "name": "Robson, Ray",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1994,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2986083333333335,
+        "y": 0.08958333333333335,
+        "width": 0.5816416666666666,
+        "height": 0.8604166666666665,
+        "originalWidth": 1000,
+        "originalHeight": 676
+      },
+      "thumbUrl": "playerImages/robson__ray.jpeg"
+    },
+    {
+      "_id": "689ac29756161bb1d526e665",
+      "fideId": 24125890,
+      "name": "Oparin, Grigoriy",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1997,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22625208333333324,
+        "y": 0.033333333333333326,
+        "width": 0.5544437500000001,
+        "height": 0.8312500000000002,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/oparin__grigoriy.jpeg"
+    },
+    {
+      "_id": "68b2b2b504ee45028cfb6c8e",
+      "fideId": 2277603,
+      "name": "Lopez Capape, Armando",
+      "federation": "Spain",
+      "sex": "Male",
+      "birthYear": 1970,
+      "__v": 0
+    },
+    {
+      "_id": "68b2b2d204ee45028cfb6c91",
+      "fideId": 22222553,
+      "name": "Fondon Murillo, Alvaro",
+      "federation": "Spain",
+      "sex": "Male",
+      "birthYear": 1971,
+      "__v": 0
+    },
+    {
+      "_id": "68b2b47d04ee45028cfb6cab",
+      "fideId": 48753629,
+      "name": "Advik Amit Agrawal",
+      "federation": "India",
+      "title": "CM",
+      "sex": "Male",
+      "birthYear": 2015,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.21875,
+        "y": 0,
+        "width": 0.5625,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 675
+      },
+      "thumbUrl": "playerImages/advik_amit_agrawal.jpeg"
+    },
+    {
+      "_id": "68b2b63204ee45028cfb6cc1",
+      "fideId": 33430675,
+      "name": "Krishav Nikesh N",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2014,
+      "__v": 0
+    },
+    {
+      "_id": "68b2b65104ee45028cfb6cc7",
+      "fideId": 33399735,
+      "name": "Ishaan Kandi",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2014,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.46607620320855614,
+        "y": 0.2875816993464053,
+        "width": 0.21223262032085555,
+        "height": 0.3773024361259654,
+        "originalWidth": 1200,
+        "originalHeight": 675
+      },
+      "thumbUrl": "playerImages/ishaan_kandi.jpeg"
+    },
+    {
+      "_id": "68b5640e04ee45028cfb93f2",
+      "fideId": 46622373,
+      "name": "Prraneeth Vuppala",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2007,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.29048749999999995,
+        "y": 0,
+        "width": 0.666,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 666
+      },
+      "thumbUrl": "playerImages/prraneeth_vuppala.jpeg"
+    },
+    {
+      "_id": "68b5642504ee45028cfb93f5",
+      "fideId": 13315730,
+      "name": "Gasparyan, Erik R.",
+      "federation": "Armenia",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2007,
+      "__v": 0
+    },
+    {
+      "_id": "68b9f2f4c15ba6ee8eadc74a",
+      "fideId": 4160258,
+      "name": "Demchenko, Anton",
+      "federation": "Slovenia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5760374331550803,
+        "y": 0.13535205782619844,
+        "width": 0.42396256684491973,
+        "height": 0.7530418594048308,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "thumbUrl": "playerImages/demchenko__anton.jpeg"
+    },
+    {
+      "_id": "68b9f498c15ba6ee8eadc7cb",
+      "fideId": 13413937,
+      "name": "Suleymanli, Aydin",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.24593124999999982,
+        "y": 0.06874999999999998,
+        "width": 0.6056104166666667,
+        "height": 0.7895833333333334,
+        "originalWidth": 1000,
+        "originalHeight": 767
+      },
+      "thumbUrl": "playerImages/suleymanli__aydin.jpeg"
+    },
+    {
+      "_id": "68b9f69fc15ba6ee8eadc839",
+      "fideId": 13719688,
+      "name": "Balabayeva, Xeniya",
+      "federation": "Kazakhstan",
+      "title": "WGM",
+      "sex": "Female",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.11956951871657756,
+        "y": 0.05936493764306944,
+        "width": 0.3343903743315507,
+        "height": 0.5939438265214045,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "thumbUrl": "playerImages/balabayeva__xeniya.jpeg"
+    },
+    {
+      "_id": "68b9f887c15ba6ee8eadc8e0",
+      "fideId": 2090732,
+      "name": "Yip, Carissa",
+      "federation": "United States of America",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.0767022961203484,
+        "y": 0.060250000000000026,
+        "width": 0.9232977038796516,
+        "height": 0.7774166666666666,
+        "originalWidth": 842,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/yip__carissa.jpeg"
+    },
+    {
+      "_id": "68b9f8aac15ba6ee8eadc8ef",
+      "fideId": 1058401,
+      "name": "Roebers, Eline",
+      "federation": "Netherlands",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.053749999999999964,
+        "width": 1,
+        "height": 0.6675,
+        "originalWidth": 534,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/roebers__eline.jpeg"
+    },
+    {
+      "_id": "68b9fab8c15ba6ee8eadc956",
+      "fideId": 1154613,
+      "name": "Kiolbasa, Oliwia",
+      "federation": "Poland",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.11443333333333333,
+        "y": 0.0708333333333333,
+        "width": 0.5145666666666666,
+        "height": 0.7479166666666666,
+        "originalWidth": 1000,
+        "originalHeight": 688
+      },
+      "thumbUrl": "playerImages/kiolbasa__oliwia.jpeg"
+    },
+    {
+      "_id": "68b9fae6c15ba6ee8eadc959",
+      "fideId": 14210363,
+      "name": "Omonova, Umida",
+      "federation": "Uzbekistan",
+      "sex": "Female",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.07219251336898397,
+        "y": 0.27070411565239705,
+        "width": 0.3330534759358288,
+        "height": 0.5915692290156818,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "thumbUrl": "playerImages/omonova__umida.jpeg"
+    },
+    {
+      "_id": "68bb3c6fc15ba6ee8eae21de",
+      "fideId": 24249971,
+      "name": "Zemlyanskii, Ivan",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2010,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.001336898395721875,
+        "y": 0.18284400794065414,
+        "width": 0.3811818181818181,
+        "height": 0.6770547392217019,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "thumbUrl": "playerImages/zemlyanskii__ivan.jpeg"
+    },
+    {
+      "_id": "68bb41ecc15ba6ee8eae2280",
+      "fideId": 2047640,
+      "name": "Xiong, Jeffery",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.05488124999999994,
+        "y": 0,
+        "width": 0.687,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 687
+      },
+      "thumbUrl": "playerImages/xiong__jeffery.jpeg"
+    },
+    {
+      "_id": "68bd1971c15ba6ee8eaee381",
+      "fideId": 12909572,
+      "name": "Kollars, Dmitrij",
+      "federation": "Germany",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10010000000000013,
+        "y": 0,
+        "width": 0.6220666666666667,
+        "height": 0.9041666666666666,
+        "originalWidth": 1000,
+        "originalHeight": 688
+      },
+      "thumbUrl": "playerImages/kollars__dmitrij.jpeg"
+    },
+    {
+      "_id": "68bfab52c15ba6ee8eaf7f2b",
+      "fideId": 4152956,
+      "name": "Vitiugov, Nikita",
+      "federation": "England",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3666666666666669,
+        "y": 0.09375,
+        "width": 0.5291666666666666,
+        "height": 0.7937499999999998,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/vitiugov__nikita.jpeg"
+    },
+    {
+      "_id": "68bfcdbfc15ba6ee8eaf854d",
+      "fideId": 30920019,
+      "name": "Mishra, Abhimanyu",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2009,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3144125,
+        "y": 0.02499999999999991,
+        "width": 0.6097874999999999,
+        "height": 0.8624999999999999,
+        "originalWidth": 1000,
+        "originalHeight": 707
+      },
+      "thumbUrl": "playerImages/mishra__abhimanyu.jpeg"
+    },
+    {
+      "_id": "68c0803da623e3b0fea7e6ec",
+      "fideId": 1188062,
+      "name": "Gumularz, Szymon",
+      "federation": "Poland",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.07617708333333328,
+        "y": 0.18125000000000002,
+        "width": 0.37935625,
+        "height": 0.56875,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/gumularz__szymon.jpeg"
+    },
+    {
+      "_id": "68c13cb5a623e3b0fea7fad6",
+      "fideId": 240990,
+      "name": "Dardha, Daniel",
+      "federation": "Belgium",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.012500000000000067,
+        "width": 1,
+        "height": 0.667,
+        "originalWidth": 667,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/dardha__daniel.jpeg"
+    },
+    {
+      "_id": "68c141b3a623e3b0fea7fb94",
+      "fideId": 753246,
+      "name": "Kozak, Adam",
+      "federation": "Hungary",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.07819999999999999,
+        "y": 0.12083333333333335,
+        "width": 0.38988750000000005,
+        "height": 0.5854166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 666
+      },
+      "thumbUrl": "playerImages/kozak__adam.jpeg"
+    },
+    {
+      "_id": "68c49967a623e3b0fea8c3b8",
+      "fideId": 2806851,
+      "name": "Rodshtein, Maxim",
+      "federation": "Israel",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1989,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.3968749999999999,
+        "y": 0.11250000000000004,
+        "width": 0.4890625,
+        "height": 0.6520833333333333,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/rodshtein__maxim.jpeg"
+    },
+    {
+      "_id": "68ce7e3a63096e38177bdc30",
+      "fideId": 33331804,
+      "name": "Pooja Shree R",
+      "federation": "India",
+      "title": "WCM",
+      "sex": "Female",
+      "birthYear": 2014,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2612874999999999,
+        "y": 0,
+        "width": 0.5183875,
+        "height": 0.7645833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 678
+      },
+      "thumbUrl": "playerImages/pooja_shree_r.jpeg"
+    },
+    {
+      "_id": "68ce7e5063096e38177bdc33",
+      "fideId": 33380252,
+      "name": "Krisha Tamhant Jain",
+      "federation": "India",
+      "sex": "Female",
+      "birthYear": 2014,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.125,
+        "width": 1,
+        "height": 0.75,
+        "originalWidth": 750,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/krisha_tamhant_jain.jpeg"
+    },
+    {
+      "_id": "68ce8a8763096e38177bdd0f",
+      "fideId": 25998676,
+      "name": "Ajay Santhosh Parvathareddy",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2010,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.33343750000000005,
+        "y": 0.03541666666666654,
+        "width": 0.3453124999999999,
+        "height": 0.5312499999999999,
+        "originalWidth": 1200,
+        "originalHeight": 780
+      },
+      "thumbUrl": "playerImages/ajay_santhosh_parvathareddy.jpeg"
+    },
+    {
+      "_id": "68ce8ac663096e38177bdd12",
+      "fideId": 4639057,
+      "name": "Wegener, Olaf",
+      "federation": "Germany",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1981,
+      "__v": 0
+    },
+    {
+      "_id": "68d548ce63096e38177cc9f1",
+      "fideId": 45066183,
+      "name": "Aditya Varun Gampa",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0
+    },
+    {
+      "_id": "68e5551d63096e38177e21fa",
+      "fideId": 1000268,
+      "name": "Van Wely, Loek",
+      "federation": "Netherlands",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1972,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.701,
+        "originalWidth": 701,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/van_wely__loek.jpeg"
+    },
+    {
+      "_id": "68e55cdd63096e38177e2285",
+      "fideId": 1345923,
+      "name": "Arsenie, Cristian Marc",
+      "federation": "Switzerland",
+      "sex": "Male",
+      "birthYear": 2009,
+      "__v": 0
+    },
+    {
+      "_id": "68f37d9363096e381780ec59",
+      "fideId": 30953499,
+      "name": "Woodward, Andy",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2010,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16671875000000008,
+        "y": 0.11250000000000004,
+        "width": 0.5842708333333333,
+        "height": 0.8875,
+        "originalWidth": 1200,
+        "originalHeight": 790
+      },
+      "thumbUrl": "playerImages/woodward__andy.webp"
+    },
+    {
+      "_id": "68f4822063096e3817813062",
+      "fideId": 25181823,
+      "name": "Siddhanth Poonja",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2012,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.13499999999999995,
+        "y": 0,
+        "width": 0.6706875000000001,
+        "height": 0.9187500000000001,
+        "originalWidth": 1000,
+        "originalHeight": 730
+      },
+      "thumbUrl": "playerImages/siddhanth_poonja.jpeg"
+    },
+    {
+      "_id": "68f4825c63096e3817813068",
+      "fideId": 3503186,
+      "name": "Otero Acosta, Diasmany",
+      "federation": "Cuba",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1979,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5276588541666666,
+        "y": 0.020833333333333315,
+        "width": 0.2765885416666667,
+        "height": 0.39583333333333337,
+        "originalWidth": 800,
+        "originalHeight": 559
+      },
+      "thumbUrl": "playerImages/otero_acosta__diasmany.jpeg"
+    },
+    {
+      "_id": "68f4878463096e38178130c3",
+      "fideId": 25059009,
+      "name": "Harshavardhan G B",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.17031250000000003,
+        "y": 0,
+        "width": 0.7078125,
+        "height": 0.94375,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/harshavardhan_g_b.jpeg"
+    },
+    {
+      "_id": "68f487ab63096e38178130c6",
+      "fideId": 25198866,
+      "name": "Albin Sajan",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2012,
+      "__v": 0
+    },
+    {
+      "_id": "6907060363096e381782fe5f",
+      "fideId": 9202544,
+      "name": "Abugenda, Nagi",
+      "federation": "Libya",
+      "title": "CM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "__v": 0
+    },
+    {
+      "_id": "6907b95c63096e3817830ad3",
+      "fideId": 14304600,
+      "name": "Barrish, Daniel",
+      "federation": "South Africa",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.55804375,
+        "y": 0.21458333333333324,
+        "width": 0.30590625000000016,
+        "height": 0.4062500000000002,
+        "originalWidth": 1000,
+        "originalHeight": 753
+      },
+      "thumbUrl": "playerImages/barrish__daniel.jpeg"
+    },
+    {
+      "_id": "6907f55d63096e3817830c6f",
+      "fideId": 2905540,
+      "name": "Cheparinov, Ivan",
+      "federation": "Bulgaria",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.09166666666666673,
+        "y": 0,
+        "width": 0.7,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 840
+      },
+      "thumbUrl": "playerImages/cheparinov__ivan.jpeg"
+    },
+    {
+      "_id": "6907f58963096e3817830c72",
+      "fideId": 3957624,
+      "name": "Cordoba Roa, Angel Gabriel",
+      "federation": "Colombia",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0
+    },
+    {
+      "_id": "6909ad9663096e381783208f",
+      "fideId": 14506688,
+      "name": "Brkic, Ante",
+      "federation": "Croatia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1988,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.13906250000000003,
+        "y": 0.2145833333333334,
+        "width": 0.334375,
+        "height": 0.4458333333333333,
+        "originalWidth": 1024,
+        "originalHeight": 768
+      },
+      "thumbUrl": "playerImages/brkic__ante.jpeg"
+    },
+    {
+      "_id": "6909c70663096e381783219e",
+      "fideId": 1112635,
+      "name": "Bartel, Mateusz",
+      "federation": "Poland",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1985,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2305555555555555,
+        "y": 0,
+        "width": 0.5652777777777778,
+        "height": 0.8479166666666667,
+        "originalWidth": 960,
+        "originalHeight": 640
+      },
+      "thumbUrl": "playerImages/bartel__mateusz.jpeg"
+    },
+    {
+      "_id": "6909c73163096e38178321a1",
+      "fideId": 25072846,
+      "name": "Aronyak Ghosh",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.125,
+        "width": 1,
+        "height": 0.75,
+        "originalWidth": 750,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/aronyak_ghosh.jpeg"
+    },
+    {
+      "_id": "690a4e6863096e3817832df5",
+      "fideId": 4901606,
+      "name": "Agibileg, Uurtsaikh",
+      "federation": "Mongolia",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5971978609625669,
+        "y": 0,
+        "width": 0.4028021390374331,
+        "height": 0.6691065432515501,
+        "originalWidth": 1000,
+        "originalHeight": 602
+      },
+      "thumbUrl": "playerImages/agibileg__uurtsaikh.jpeg"
+    },
+    {
+      "_id": "690a4f0263096e3817832e0b",
+      "fideId": 3409350,
+      "name": "Henriquez Villagra, Cristobal",
+      "federation": "Chile",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1996,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.75,
+        "originalWidth": 240,
+        "originalHeight": 320
+      },
+      "thumbUrl": "playerImages/henriquez_villagra__cristobal.jpeg"
+    },
+    {
+      "_id": "690a522563096e3817832e65",
+      "fideId": 13710427,
+      "name": "Nogerbek, Kazybek",
+      "federation": "Kazakhstan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.042187500000000044,
+        "y": 0.054166666666666585,
+        "width": 0.6421875,
+        "height": 0.8562500000000001,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/nogerbek__kazybek.jpeg"
+    },
+    {
+      "_id": "690a57ee63096e3817832e9a",
+      "fideId": 5024595,
+      "name": "Lalit Babu M R",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1993,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.16649999999999998,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/lalit_babu_m_r.jpeg"
+    },
+    {
+      "_id": "690a5ab263096e3817832ecf",
+      "fideId": 24175439,
+      "name": "Esipenko, Andrey",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.09023470521746568,
+        "width": 0.4694171122994652,
+        "height": 0.8337781745994054,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "thumbUrl": "playerImages/esipenko__andrey.jpeg"
+    },
+    {
+      "_id": "690a5de463096e3817832f00",
+      "fideId": 2106388,
+      "name": "Supi, Luis Paulo",
+      "federation": "Brazil",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1996,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.03587916666666657,
+        "y": 0.08958333333333329,
+        "width": 0.4224333333333334,
+        "height": 0.6333333333333334,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/supi__luis_paulo.jpeg"
+    },
+    {
+      "_id": "690a5f6663096e3817832f13",
+      "fideId": 1130420,
+      "name": "Piorun, Kacper",
+      "federation": "Poland",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1991,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.12898124999999994,
+        "y": 0,
+        "width": 0.5725083333333333,
+        "height": 0.8583333333333332,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/piorun__kacper.png"
+    },
+    {
+      "_id": "690a607363096e3817832f22",
+      "fideId": 13504398,
+      "name": "Kovalev, Vladislav",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1994,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10118958333333328,
+        "y": 0.033333333333333326,
+        "width": 0.5363791666666666,
+        "height": 0.8041666666666666,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/kovalev__vladislav.jpeg"
+    },
+    {
+      "_id": "690c31ad63096e3817834854",
+      "fideId": 5045207,
+      "name": "Ghosh, Diptayan",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1998,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.29074999999999995,
+        "y": 0.060416666666666674,
+        "width": 0.51305,
+        "height": 0.6895833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 744
+      },
+      "thumbUrl": "playerImages/ghosh__diptayan.jpeg"
+    },
+    {
+      "_id": "690d038a63096e3817836db3",
+      "fideId": 4657101,
+      "name": "Svane, Rasmus",
+      "federation": "Germany",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1997,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.06916666666666665,
+        "width": 1,
+        "height": 0.8616666666666667,
+        "originalWidth": 1034,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/svane__rasmus.jpeg"
+    },
+    {
+      "_id": "690d03a163096e3817836db6",
+      "fideId": 13401653,
+      "name": "Mamedov, Rauf",
+      "federation": "Azerbaijan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1988,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.34575625,
+        "y": 0,
+        "width": 0.6517145833333333,
+        "height": 0.9770833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/mamedov__rauf.jpeg"
+    },
+    {
+      "_id": "690d04e163096e3817836dc5",
+      "fideId": 8602280,
+      "name": "Bai, Jinshi",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.13743128435782104,
+        "y": 0.029166666666666674,
+        "width": 0.7907296351824088,
+        "height": 0.5274166666666668,
+        "originalWidth": 667,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/bai__jinshi.jpeg"
+    },
+    {
+      "_id": "690d061863096e3817836dd8",
+      "fideId": 13300881,
+      "name": "Sargissian, Gabriel",
+      "federation": "Armenia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1983,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.24431666666666668,
+        "y": 0.05833333333333335,
+        "width": 0.56278125,
+        "height": 0.84375,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/sargissian__gabriel.jpeg"
+    },
+    {
+      "_id": "690d071a63096e3817836de8",
+      "fideId": 14203049,
+      "name": "Kuybokarov, Temur",
+      "federation": "Australia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.04005330403645829,
+        "y": 0.13958333333333328,
+        "width": 0.38491007486979173,
+        "height": 0.5770833333333334,
+        "originalWidth": 1024,
+        "originalHeight": 683
+      },
+      "thumbUrl": "playerImages/kuybokarov__temur.jpeg"
+    },
+    {
+      "_id": "690d084363096e3817836df7",
+      "fideId": 35028600,
+      "name": "Pranesh M",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.4180145833333334,
+        "y": 0,
+        "width": 0.5655604166666667,
+        "height": 0.8479166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/pranesh_m.jpeg"
+    },
+    {
+      "_id": "690d099c63096e3817836e06",
+      "fideId": 884189,
+      "name": "Lodici, Lorenzo",
+      "federation": "Italy",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.29603749999999984,
+        "y": 0.02499999999999991,
+        "width": 0.5314125000000001,
+        "height": 0.7979166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 666
+      },
+      "thumbUrl": "playerImages/lodici__lorenzo.jpeg"
+    },
+    {
+      "_id": "690d0c3163096e3817836e58",
+      "fideId": 8610665,
+      "name": "Wang, Shixu B",
+      "federation": "China",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.05375000000000002,
+        "width": 1,
+        "height": 0.6675,
+        "originalWidth": 534,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/wang__shixu_b.jpeg"
+    },
+    {
+      "_id": "6911701863096e38178541df",
+      "fideId": 4675789,
+      "name": "Meier, Georg",
+      "federation": "Uruguay",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.0851970181043663,
+        "y": 0.07124999999999998,
+        "width": 0.9148029818956337,
+        "height": 0.7158333333333334,
+        "originalWidth": 313,
+        "originalHeight": 400
+      },
+      "thumbUrl": "playerImages/meier__georg.jpeg"
+    },
+    {
+      "_id": "692150d463096e38178886c6",
+      "fideId": 2000059,
+      "name": "Christiansen, Larry",
+      "federation": "United States of America",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1956,
+      "__v": 0
+    },
+    {
+      "_id": "6921512963096e38178886e4",
+      "fideId": 4100026,
+      "name": "Karpov, Anatoly",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1951,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22465625,
+        "y": 0,
+        "width": 0.6675,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 801
+      },
+      "thumbUrl": "playerImages/karpov__anatoly.jpeg"
+    },
+    {
+      "_id": "692dca4e63096e38178a25db",
+      "fideId": 2820242,
+      "name": "Sokolovsky, Yahli",
+      "federation": "Israel",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.203125,
+        "y": 0.04166666666666674,
+        "width": 0.6109375,
+        "height": 0.8145833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 750
+      },
+      "thumbUrl": "playerImages/sokolovsky__yahli.jpeg"
+    },
+    {
+      "_id": "692e6d4163096e38178a2b08",
+      "fideId": 950122,
+      "name": "Ivic, Velimir",
+      "federation": "Serbia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.28322499999999995,
+        "y": 0.07916666666666672,
+        "width": 0.5488854166666667,
+        "height": 0.8229166666666666,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/ivic__velimir.jpeg"
+    },
+    {
+      "_id": "69435a55fe60a636b8e4dbda",
+      "fideId": 4128125,
+      "name": "Kosteniuk, Alexandra",
+      "federation": "Switzerland",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1984,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.24529791666666673,
+        "y": 0.050000000000000044,
+        "width": 0.5378624999999999,
+        "height": 0.7875,
+        "originalWidth": 1000,
+        "originalHeight": 683
+      },
+      "thumbUrl": "playerImages/kosteniuk__alexandra.jpeg"
+    },
+    {
+      "_id": "69435d65fe60a636b8e4dc0e",
+      "fideId": 14109336,
+      "name": "Lagno, Kateryna",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1989,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.4243999999999999,
+        "y": 0.10833333333333328,
+        "width": 0.4508,
+        "height": 0.6708333333333334,
+        "originalWidth": 1000,
+        "originalHeight": 672
+      },
+      "thumbUrl": "playerImages/lagno__kateryna.jpeg"
+    },
+    {
+      "_id": "694360cbfe60a636b8e4dc56",
+      "fideId": 13602993,
+      "name": "Batsiashvili, Nino",
+      "federation": "Georgia",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.014583333333333282,
+        "y": 0,
+        "width": 0.9708333333333334,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 1165
+      },
+      "thumbUrl": "playerImages/batsiashvili__nino.jpeg"
+    },
+    {
+      "_id": "694361a4fe60a636b8e4dc68",
+      "fideId": 932400,
+      "name": "Injac, Teodora",
+      "federation": "Serbia",
+      "title": "IM",
+      "sex": "Female",
+      "birthYear": 2000,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.17761666666666664,
+        "y": 0.10625000000000007,
+        "width": 0.5794562500000001,
+        "height": 0.8687500000000001,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/injac__teodora.jpeg"
+    },
+    {
+      "_id": "6949a732fe60a636b8e58982",
+      "fideId": 8608059,
+      "name": "Zhu, Jiner",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.4527777777777779,
+        "y": 0.039583333333333304,
+        "width": 0.4749999999999999,
+        "height": 0.7124999999999999,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/zhu__jiner.jpeg"
+    },
+    {
+      "_id": "6949a8cafe60a636b8e58996",
+      "fideId": 36083534,
+      "name": "Maurizzi, MarcAndria",
+      "federation": "France",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2007,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.33286666666666676,
+        "y": 0.10416666666666663,
+        "width": 0.5627333333333333,
+        "height": 0.7645833333333333,
+        "originalWidth": 1000,
+        "originalHeight": 736
+      },
+      "thumbUrl": "playerImages/maurizzi__marcandria.jpeg"
+    },
+    {
+      "_id": "69516d56fe60a636b8e60d0f",
+      "fideId": 24101605,
+      "name": "Artemiev, Vladislav",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1998,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.05992968749999994,
+        "y": 0.04791666666666661,
+        "width": 0.6899270833333334,
+        "height": 0.8916666666666667,
+        "originalWidth": 800,
+        "originalHeight": 619
+      },
+      "thumbUrl": "playerImages/artemiev__vladislav.jpeg"
+    },
+    {
+      "_id": "69537ce3fe60a636b8e632f0",
+      "fideId": 46626786,
+      "name": "Pranav Anand",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.23319999999999996,
+        "y": 0.07291666666666674,
+        "width": 0.5349895833333334,
+        "height": 0.8020833333333334,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/pranav_anand.jpeg"
+    },
+    {
+      "_id": "69595d4bfe60a636b8e725aa",
+      "fideId": 603767,
+      "name": "Bauer, Christian",
+      "federation": "France",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1977,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.13403614457831325,
+        "width": 1,
+        "height": 0.7319277108433735,
+        "originalWidth": 243,
+        "originalHeight": 332
+      },
+      "thumbUrl": "playerImages/bauer__christian.jpeg"
+    },
+    {
+      "_id": "69595d68fe60a636b8e725ad",
+      "fideId": 25043153,
+      "name": "Siva Mahadevan",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.27627708333333323,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/siva_mahadevan.jpeg"
+    },
+    {
+      "_id": "69595ed1fe60a636b8e725d0",
+      "fideId": 13601520,
+      "name": "Jobava, Baadur",
+      "federation": "Georgia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1983,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1966166666666665,
+        "y": 0,
+        "width": 0.6012000000000002,
+        "height": 0.9000000000000002,
+        "originalWidth": 1000,
+        "originalHeight": 668
+      },
+      "thumbUrl": "playerImages/jobava__baadur.jpeg"
+    },
+    {
+      "_id": "69596073fe60a636b8e725f0",
+      "fideId": 10601457,
+      "name": "Amin, Bassem",
+      "federation": "Egypt",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1988,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2294166666666667,
+        "y": 0,
+        "width": 0.6799999999999999,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 816
+      },
+      "thumbUrl": "playerImages/amin__bassem.jpeg"
+    },
+    {
+      "_id": "695eb6b3fe60a636b8e901e3",
+      "fideId": 25073230,
+      "name": "Rakshitta Ravi",
+      "federation": "India",
+      "title": "WGM",
+      "sex": "Female",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10249999999999998,
+        "y": 0,
+        "width": 0.795,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 795
+      },
+      "thumbUrl": "playerImages/rakshitta_ravi.jpeg"
+    },
+    {
+      "_id": "695eb6d8fe60a636b8e901e7",
+      "fideId": 4147103,
+      "name": "Goryachkina, Aleksandra",
+      "federation": "FIDE",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1998,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.08034583333333328,
+        "y": 0.03749999999999998,
+        "width": 0.5405479166666667,
+        "height": 0.8104166666666667,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/goryachkina__aleksandra.jpeg"
+    },
+    {
+      "_id": "69a6ce98f9f650c3901c2194",
+      "fideId": 309095,
+      "name": "Navara, David",
+      "federation": "Czech Republic",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1985,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.0062468765617190725,
+        "y": 0.21024999999999994,
+        "width": 0.934407796101949,
+        "height": 0.6232500000000001,
+        "originalWidth": 667,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/navara__david.jpeg"
+    },
+    {
+      "_id": "69a77e6bf9f650c3901cc5de",
+      "fideId": 712779,
+      "name": "Gledura, Benjamin",
+      "federation": "Hungary",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22830000000000006,
+        "y": 0,
+        "width": 0.6452875,
+        "height": 0.8708333333333333,
+        "originalWidth": 1000,
+        "originalHeight": 741
+      },
+      "thumbUrl": "playerImages/gledura__benjamin.jpeg"
+    },
+    {
+      "_id": "69a77e8af9f650c3901cc60c",
+      "fideId": 23716525,
+      "name": "Nemec, Jachym",
+      "federation": "Czech Republic",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2008,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.344875,
+        "y": 0.17708333333333331,
+        "width": 0.41975000000000007,
+        "height": 0.5750000000000001,
+        "originalWidth": 1000,
+        "originalHeight": 730
+      },
+      "thumbUrl": "playerImages/nemec__jachym.jpeg"
+    },
+    {
+      "_id": "69ad094ff9f650c39021be4f",
+      "fideId": 14936372,
+      "name": "Sahidi, Samir",
+      "federation": "Slovakia",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2003,
+      "__v": 0
+    },
+    {
+      "_id": "69ad096bf9f650c39021be67",
+      "fideId": 5004985,
+      "name": "Sasikiran, Krishnan",
+      "federation": "India",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1981,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.125,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "thumbUrl": "playerImages/sasikiran__krishnan.jpeg"
+    },
+    {
+      "_id": "69ad0b6bf9f650c39021bf96",
+      "fideId": 6349765,
+      "name": "Eren, Ataberk",
+      "federation": "Turkiye",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0
+    },
+    {
+      "_id": "69bff8aaf9f650c3902a4a41",
+      "fideId": 14408120,
+      "name": "Maksimovic, Bojan",
+      "federation": "Serbia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.10473588342440798,
+        "y": 0.22374999999999995,
+        "width": 0.26912568306010926,
+        "height": 0.24625,
+        "originalWidth": 915,
+        "originalHeight": 1000
+      },
+      "thumbUrl": "playerImages/maksimovic__bojan.jpeg"
+    },
+    {
+      "_id": "69c441acaf6ad17e1e0cac1e",
+      "fideId": 5006520,
+      "name": "Shashikant, Kutwal",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 1979,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.182,
+        "y": 0,
+        "width": 0.636,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 636
+      },
+      "thumbUrl": "playerImages/shashikant__kutwal.jpeg"
+    },
+    {
+      "_id": "69c441cfaf6ad17e1e0cac25",
+      "fideId": 5029430,
+      "name": "Venkata, Krishna Karthik K",
+      "federation": "India",
+      "title": "FM",
+      "sex": "Male",
+      "birthYear": 1986,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2736111111111112,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 912,
+        "originalHeight": 608
+      },
+      "thumbUrl": "playerImages/venkata__krishna_karthik_k.jpeg"
+    },
+    {
+      "_id": "69c442efaf6ad17e1e0cac73",
+      "fideId": 5065992,
+      "name": "Darpan, Inani",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1994,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0.006666666666666654,
+        "width": 1,
+        "height": 0.7241666666666667,
+        "originalWidth": 869,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/darpan__inani.jpeg"
+    },
+    {
+      "_id": "69c443f5af6ad17e1e0cad1b",
+      "fideId": 46601643,
+      "name": "Shankar Ramakrishnan",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2001,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.1855,
+        "y": 0,
+        "width": 0.629,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 629
+      },
+      "thumbUrl": "playerImages/shankar_ramakrishnan.jpeg"
+    },
+    {
+      "_id": "69c4449baf6ad17e1e0cad3d",
+      "fideId": 45083908,
+      "name": "Somendra",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2002,
+      "__v": 0
+    },
+    {
+      "_id": "69c44567af6ad17e1e0cad73",
+      "fideId": 5049350,
+      "name": "Kishan, Gangolli",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1992,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.29961497326203207,
+        "y": 0,
+        "width": 0.612,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 612
+      },
+      "thumbUrl": "playerImages/kishan__gangolli.jpeg"
+    },
+    {
+      "_id": "69c44633af6ad17e1e0cad82",
+      "fideId": 35099868,
+      "name": "Kulkarni Shreesh",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2005,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.09114583333333326,
+        "y": 0.07083333333333341,
+        "width": 0.8385416666666667,
+        "height": 0.6708333333333334,
+        "originalWidth": 960,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/kulkarni_shreesh.jpeg"
+    },
+    {
+      "_id": "69c449e3af6ad17e1e0cadf5",
+      "fideId": 35079298,
+      "name": "Watpade Vivek",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1999,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.8,
+        "originalWidth": 960,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/watpade_vivek.jpeg"
+    },
+    {
+      "_id": "69c44aacaf6ad17e1e0cae2c",
+      "fideId": 48728012,
+      "name": "Ved Neeraj Phaur",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2014,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2683770053475936,
+        "y": 0,
+        "width": 0.621,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 621
+      },
+      "thumbUrl": "playerImages/ved_neeraj_phaur.jpeg"
+    },
+    {
+      "_id": "69c44b17af6ad17e1e0cae5a",
+      "fideId": 5023505,
+      "name": "Kshirsagar, D.D.",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1985,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.078125,
+        "y": 0.04999999999999993,
+        "width": 0.84375,
+        "height": 0.675,
+        "originalWidth": 960,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "https://cbin.b-cdn.net/img/DA/darshan-kshirsagar_01KKC1ERAED98JCMJA0NCC4MQX_960x1200.jpeg"
+    },
+    {
+      "_id": "69c44beeaf6ad17e1e0caefd",
+      "fideId": 33428794,
+      "name": "Iniyan Gopinathen",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 2011,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.09895833333333326,
+        "y": 0.052083333333333315,
+        "width": 0.8671875,
+        "height": 0.69375,
+        "originalWidth": 960,
+        "originalHeight": 1200
+      },
+      "thumbUrl": "playerImages/iniyan_gopinathen.jpeg"
+    },
+    {
+      "_id": "69d4f665c8dc30958833355b",
+      "fideId": 14109603,
+      "name": "Karjakin, Sergey",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1990,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.05811250000000001,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/karjakin__sergey.jpeg"
+    },
+    {
+      "_id": "69db855dc8dc30958839aad1",
+      "fideId": 406465,
+      "name": "Gormally, Daniel W",
+      "federation": "England",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1976,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.5527272727272727,
+        "y": 0.010416666666666685,
+        "width": 0.4386363636363637,
+        "height": 0.3174342105263158,
+        "originalWidth": 220,
+        "originalHeight": 304
+      },
+      "thumbUrl": "playerImages/gormally__daniel_w.png"
+    },
+    {
+      "_id": "69db8589c8dc30958839aafb",
+      "fideId": 2802007,
+      "name": "Sutovsky, Emil",
+      "federation": "Israel",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1977,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.46526041666666645,
+        "y": 0.175,
+        "width": 0.28486458333333337,
+        "height": 0.42708333333333337,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/sutovsky__emil.jpeg"
+    },
+    {
+      "_id": "69db8a36c8dc30958839ad19",
+      "fideId": 4100379,
+      "name": "Dvoirys, Semen I.",
+      "federation": "Russia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1958,
+      "__v": 0
+    },
+    {
+      "_id": "69fa591e3e41be407c2e5ef3",
+      "fideId": 1118358,
+      "name": "Wojtaszek, Radoslaw",
+      "federation": "Poland",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1987,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.34945624999999997,
+        "y": 0.10625000000000001,
+        "width": 0.40551874999999993,
+        "height": 0.6229166666666666,
+        "originalWidth": 1000,
+        "originalHeight": 651
+      },
+      "thumbUrl": "playerImages/wojtaszek__radoslaw.jpeg"
+    },
+    {
+      "_id": "6a151e2636a31ce2530060f8",
+      "fideId": 8603006,
+      "name": "Ju, Wenjun",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 1991,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.19290208333333336,
+        "y": 0.014583333333333393,
+        "width": 0.5336,
+        "height": 0.7999999999999999,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "thumbUrl": "playerImages/ju__wenjun.jpeg"
+    },
+    {
+      "_id": "6a229a1f26660d99665808e1",
+      "fideId": 13708694,
+      "name": "Assaubayeva, Bibisara",
+      "federation": "Kazakhstan",
+      "title": "GM",
+      "sex": "Female",
+      "birthYear": 2004,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.2708333333333334,
+        "y": 0,
+        "width": 0.6666666666666666,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/assaubayeva__bibisara.jpeg"
+    },
+    {
+      "_id": "6a25d06e26660d99665a2720",
+      "name": "Samay Raina",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1997,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.7755102040816326,
+        "originalWidth": 608,
+        "originalHeight": 784
+      },
+      "thumbUrl": "playerImages/samay_raina.jpeg"
+    },
+    {
+      "_id": "6a25d0a626660d99665a2727",
+      "fideId": 5032474,
+      "name": "Prakhar, Gupta",
+      "federation": "India",
+      "sex": "Male",
+      "birthYear": 1996,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.22014583333333337,
+        "y": 0,
+        "width": 0.665,
+        "height": 1,
+        "originalWidth": 800,
+        "originalHeight": 532
+      },
+      "thumbUrl": "playerImages/prakhar__gupta.jpeg"
+    },
+    {
+      "_id": "6a2a5b890b5d0a15b21a90a4",
+      "fideId": 14210703,
+      "name": "Madaminov, Mukhiddin",
+      "federation": "Uzbekistan",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2006,
+      "__v": 0,
+      "thumbReframe": {
+        "x": 0.25555555555555554,
+        "y": 0.054166666666666696,
+        "width": 0.5458333333333333,
+        "height": 0.81875,
+        "originalWidth": 1200,
+        "originalHeight": 800
+      },
+      "thumbUrl": "playerImages/madaminov__mukhiddin.jpeg"
+    },
+    {
+      "_id": "6a3420ebb452cc49edeb9b8c",
+      "fideId": 13306766,
+      "name": "Shant Sargsyan",
+      "federation": "Armenia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 2002,
+      "thumbUrl": "playerImages/shant_sargsyan.jpeg",
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.6675,
+        "originalWidth": 534,
+        "originalHeight": 800
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a3424b0b452cc49edeb9d8f",
+      "fideId": 8617996,
+      "name": "Wang Yanbin",
+      "federation": "China",
+      "sex": "Male",
+      "birthYear": 2002,
+      "thumbReframe": null,
+      "__v": 0
+    },
+    {
+      "_id": "6a369090b452cc49eded52ba",
+      "fideId": 14120828,
+      "name": "Olexandr Bortnyk",
+      "federation": "Ukraine",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1996,
+      "thumbUrl": "playerImages/olexandr_bortnyk.jpeg",
+      "thumbReframe": {
+        "x": 0.07678877005347595,
+        "y": 0,
+        "width": 0.563,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 563
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a3adc9442e70fe237b37838",
+      "fideId": 7101384,
+      "name": "Susanto Megaranto",
+      "federation": "Indonesia",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1987,
+      "thumbUrl": "playerImages/susanto_megaranto.jpeg",
+      "thumbReframe": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.6641666666666667,
+        "originalWidth": 797,
+        "originalHeight": 1200
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a3e2dc342e70fe237b454b3",
+      "fideId": 3805662,
+      "name": "Martinez Alcantara, Jose Eduardo",
+      "federation": "Mexico",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "thumbUrl": "playerImages/martinez_alcantara__jose_eduardo.jpeg",
+      "thumbReframe": {
+        "x": 0.1578124999999999,
+        "y": 0,
+        "width": 0.75,
+        "height": 1,
+        "originalWidth": 1200,
+        "originalHeight": 900
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a46d59ca13f9cdaee935dec",
+      "fideId": 8608288,
+      "name": "Xu, Xiangyu",
+      "federation": "China",
+      "title": "GM",
+      "sex": "Male",
+      "birthYear": 1999,
+      "thumbUrl": "playerImages/xu__xiangyu.jpeg",
+      "thumbReframe": {
+        "x": 0.16649999999999998,
+        "y": 0,
+        "width": 0.667,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 667
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a4a17d8a13f9cdaee941399",
+      "fideId": 14100010,
+      "name": "Ivanchuk, Vasyl",
+      "federation": "Ukraine",
+      "sex": "Male",
+      "birthYear": 1969,
+      "thumbUrl": "playerImages/ivanchuk__vasyl.jpeg",
+      "thumbReframe": {
+        "x": 0.009949999999999903,
+        "y": 0,
+        "width": 0.7260000000000001,
+        "height": 1,
+        "originalWidth": 1000,
+        "originalHeight": 726
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6a4c274fa13f9cdaee94aebf",
+      "fideId": 5084768,
+      "name": "Nitish Belurkar",
+      "federation": "India",
+      "title": "IM",
+      "sex": "Male",
+      "birthYear": 2001,
+      "thumbUrl": "playerImages/nitish_belurkar.jpeg",
+      "thumbReframe": {
+        "x": 0.19684374999999998,
+        "y": 0.08750000000000013,
+        "width": 0.55903125,
+        "height": 0.8375,
+        "originalWidth": 800,
+        "originalHeight": 534
+      },
+      "__v": 0
+    }
+  ]
+}
