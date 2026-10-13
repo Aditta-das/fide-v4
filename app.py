@@ -16,9 +16,14 @@ app = FastAPI(title="FIDE DATA FETCHER")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://gmbangladesh.com",
+        "https://www.gmbangladesh.com",
+    ],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
+    
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
